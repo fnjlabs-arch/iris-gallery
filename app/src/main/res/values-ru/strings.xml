@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <!-- App & General -->
-    <string name="app_name">Iris Gallery</string>
+    <string name="app_name">SadSha Gallery</string>
     <string name="app_description">Полностью автономная медиагалерея для Android в ботаническом стиле</string>
     <string name="version_format">Версия %1$s (сборка %2$d)</string>
 
@@ -13,7 +13,7 @@
 
     <!-- Sections -->
     <string name="section_settings">Настройки</string>
-    <string name="section_about">О приложении Iris</string>
+    <string name="section_about">О приложении SadSha</string>
     <string name="section_trash">Корзина</string>
     <string name="section_locked">Личное</string>
     <string name="section_duplicates">Дубликаты</string>
@@ -80,7 +80,7 @@
 
     <!-- Permission Screen -->
     <string name="permission_title">Ваша галерея, созданная для вас</string>
-    <string name="permission_desc">Предоставьте доступ к фото для просмотра медиатеки. Iris никогда не отправляет и не анализирует ваши фотографии.</string>
+    <string name="permission_desc">Предоставьте доступ к фото для просмотра медиатеки. SadSha никогда не отправляет и не анализирует ваши фотографии.</string>
     <string name="permission_button">Выбрать фото</string>
 
     <!-- Empty States -->
@@ -116,9 +116,9 @@
     <string name="dialog_delete_vault_item_title">Удалить %1$s навсегда?</string>
     <string name="dialog_delete_vault_item_message">Этот объект будет навсегда удален из вашего личного хранилища.</string>
     <string name="prompt_free_vault_title">Хранилище без запросов</string>
-    <string name="prompt_free_vault_desc">Предоставление разрешения «Доступ ко всем файлам» позволяет Iris Gallery перемещать и скрывать фотографии в личном хранилище без постоянных подтверждений удаления от Android.\n\nIris работает на 100% офлайн без доступа к интернету, поэтому ваши файлы никогда не покинут устройство.</string>
+    <string name="prompt_free_vault_desc">Предоставление разрешения «Доступ ко всем файлам» позволяет SadSha Gallery перемещать и скрывать фотографии в личном хранилище без постоянных подтверждений удаления от Android.\n\nSadSha работает на 100% офлайн без доступа к интернету, поэтому ваши файлы никогда не покинут устройство.</string>
     <string name="dialog_prompt_free_vault_title">Хранилище без запросов</string>
-    <string name="dialog_prompt_free_vault_message">Предоставление разрешения «Доступ ко всем файлам» позволяет Iris Gallery перемещать и скрывать фотографии в личном хранилище без постоянных подтверждений удаления от Android.\n\nIris работает на 100% офлайн без доступа к интернету, поэтому ваши файлы никогда не покинут устройство.</string>
+    <string name="dialog_prompt_free_vault_message">Предоставление разрешения «Доступ ко всем файлам» позволяет SadSha Gallery перемещать и скрывать фотографии в личном хранилище без постоянных подтверждений удаления от Android.\n\nSadSha работает на 100% офлайн без доступа к интернету, поэтому ваши файлы никогда не покинут устройство.</string>
 
     <!-- Media Types & Titles -->
     <string name="media_type_photo">фото</string>
@@ -181,7 +181,7 @@
     <string name="duplicates_keep_best_delete">Оставить лучшее, удалить выбранные (%1$d)</string>
     <string name="duplicates_scan_count">%1$d из %2$d</string>
     <string name="duplicates_hero_title">Безопасная очистка</string>
-    <string name="duplicates_hero_desc">Iris сравнивает файлы и локальные визуальные отпечатки. Фотографии не покидают устройство, и ничто не удаляется без подтверждения Android.</string>
+    <string name="duplicates_hero_desc">SadSha сравнивает файлы и локальные визуальные отпечатки. Фотографии не покидают устройство, и ничто не удаляется без подтверждения Android.</string>
     <string name="duplicates_comparing_progress">Сравнение: %1$d из %2$d</string>
     <string name="duplicates_scan_again">Повторить сканирование</string>
     <string name="duplicates_scan_library">Сканировать медиатеку</string>
@@ -305,33 +305,33 @@
     <string name="settings_section_behavior">Поведение и безопасность</string>
     <string name="settings_startup_tab">Вкладка по умолчанию при запуске</string>
     <string name="settings_app_lock_title">Блокировка приложения</string>
-    <string name="settings_app_lock_desc">Запрашивать PIN-код для входа в Iris Gallery и выбора медиа</string>
+    <string name="settings_app_lock_desc">Запрашивать PIN-код для входа в SadSha Gallery и выбора медиа</string>
     <string name="settings_change_pin">Изменить PIN-код</string>
     <string name="settings_biometric_unlock_title">Разблокировка по отпечатку / биометрии</string>
-    <string name="settings_biometric_unlock_desc">Разрешить разблокировку Iris Gallery по отпечатку пальца</string>
+    <string name="settings_biometric_unlock_desc">Разрешить разблокировку SadSha Gallery по отпечатку пальца</string>
     <string name="settings_hide_vault_title">Скрывать файлы хранилища из памяти</string>
-    <string name="settings_hide_vault_desc">Перемещает защищенные фото и видео в изолированное хранилище приложения, скрывая их от других программ и проводников. Если выключено, файлы скрываются только внутри Iris Gallery.</string>
+    <string name="settings_hide_vault_desc">Перемещает защищенные фото и видео в изолированное хранилище приложения, скрывая их от других программ и проводников. Если выключено, файлы скрываются только внутри SadSha Gallery.</string>
     <string name="settings_silent_vault_title">Управление хранилищем без запросов</string>
     <string name="settings_silent_vault_desc_granted">Доступ ко всем файлам предоставлен — операции с хранилищем выполняются без системных окон подтверждения.</string>
-    <string name="settings_silent_vault_desc_prompt">Предоставьте разрешение «Доступ ко всем файлам», чтобы Iris могла перемещать и скрывать фото в хранилище без всплывающих окон подтверждения Android.</string>
+    <string name="settings_silent_vault_desc_prompt">Предоставьте разрешение «Доступ ко всем файлам», чтобы SadSha могла перемещать и скрывать фото в хранилище без всплывающих окон подтверждения Android.</string>
     <string name="settings_vault_biometric_title">Биометрия для личного хранилища</string>
     <string name="settings_vault_biometric_desc">Запрашивать данные разблокировки устройства или PIN при просмотре личного хранилища</string>
     <string name="settings_confirm_delete_title">Подтверждать удаление</string>
     <string name="settings_confirm_delete_desc">Показывать диалог подтверждения перед перемещением в корзину или окончательным удалением</string>
     <string name="settings_preferred_editor_title">Фоторедактор по умолчанию</string>
-    <string name="settings_preferred_editor_desc">Выберите, открывать ли встроенный редактор Iris или внешние приложения</string>
+    <string name="settings_preferred_editor_desc">Выберите, открывать ли встроенный редактор SadSha или внешние приложения</string>
     <string name="settings_editor_always_ask">Всегда спрашивать</string>
-    <string name="settings_editor_builtin">Редактор Iris (Встроенный)</string>
+    <string name="settings_editor_builtin">Редактор SadSha (Встроенный)</string>
     <string name="settings_editor_external">Внешнее приложение</string>
 
     <string name="editor_choice_title">Редактировать фото</string>
-    <string name="editor_builtin_title">Редактор Iris</string>
+    <string name="editor_builtin_title">Редактор SadSha</string>
     <string name="editor_builtin_desc">Встроенные фильтры, кадрирование и цветокоррекция</string>
     <string name="editor_external_title">Внешнее приложение</string>
     <string name="editor_external_desc">Открыть в ImageToolbox, Lightroom, Snapseed и др.</string>
     <string name="editor_remember_choice">Запомнить мой выбор</string>
     <string name="edit_with_external_title">Редактировать фото с помощью…</string>
-    <string name="action_edit_builtin">Редактировать в Iris</string>
+    <string name="action_edit_builtin">Редактировать в SadSha</string>
     <string name="action_edit_external">Редактировать во внешнем приложении</string>
 
     <string name="settings_section_storage">Хранилище и сброс</string>
@@ -342,7 +342,7 @@
     <string name="settings_reset_confirm">Сбросить по умолчанию</string>
 
     <!-- App Lock & PIN Dialogs -->
-    <string name="app_lock_title">Разблокировка Iris Gallery</string>
+    <string name="app_lock_title">Разблокировка SadSha Gallery</string>
     <string name="app_lock_picker_title">Разблокируйте для выбора медиа</string>
     <string name="app_lock_welcome_back">С возвращением</string>
     <string name="app_lock_select_media">Выбор медиа</string>
@@ -352,7 +352,7 @@
     <string name="app_lock_subtitle">Введите PIN-код для разблокировки</string>
     <string name="app_lock_picker_subtitle">Введите PIN-код для выбора фото</string>
     <string name="app_lock_wrong_pin">Неверный PIN-код. Попробуйте еще раз.</string>
-    <string name="app_lock_biometric_title">Разблокировка Iris Gallery</string>
+    <string name="app_lock_biometric_title">Разблокировка SadSha Gallery</string>
     <string name="app_lock_biometric_subtitle">Коснитесь сканера отпечатка пальца</string>
     <string name="app_lock_scan_fingerprint">Коснитесь сканера отпечатка пальца для продолжения</string>
     <string name="app_lock_biometric_negative">Ввести PIN-код</string>
@@ -417,13 +417,13 @@
     <string name="editor_warmth">Теплота</string>
 
     <!-- About Screen -->
-    <string name="about_title">О приложении Iris</string>
+    <string name="about_title">О приложении SadSha</string>
     <string name="about_developer_project">Разработчик и проект</string>
     <string name="about_developer_label">Разработчик</string>
     <string name="about_developer_name">Mohamad Oday (@MohamadOday)</string>
     <string name="about_website_label">Веб-сайт и портфолио</string>
     <string name="about_source_label">Исходный код и репозиторий</string>
-    <string name="about_source_url">github.com/MohamadOday/iris-gallery</string>
+    <string name="about_source_url">github.com/fnjlabs-arch/iris-gallery</string>
     <string name="about_license_label">Лицензия</string>
     <string name="about_license_name">Apache License 2.0 (Open Source)</string>
     <string name="about_general_info">Общая информация</string>
@@ -458,7 +458,7 @@
     <!-- Toasts -->
     <string name="toast_items_vaulted">Перемещено в скрытое хранилище: %1$d шт.</string>
     <string name="toast_vault_items_moved">Перемещено в скрытое хранилище: %1$d шт.</string>
-    <string name="toast_vault_items_locked_gallery">Скрыто в Iris Gallery: %1$d шт.</string>
+    <string name="toast_vault_items_locked_gallery">Скрыто в SadSha Gallery: %1$d шт.</string>
     <string name="toast_vault_items_restored">Восстановлено из хранилища: %1$d шт.</string>
     <string name="toast_vault_items_deleted">Удалено навсегда: %1$d шт.</string>
     <string name="toast_lock_cancelled">Блокировка отменена</string>
@@ -471,9 +471,9 @@
     <string name="toast_pin_enabled">PIN-код галереи включен</string>
     <string name="toast_pin_changed">PIN-код галереи обновлен</string>
     <string name="toast_pin_disabled">PIN-код галереи отключен</string>
-    <string name="toast_edited_saved">Отредактированная копия сохранена в Pictures/Iris</string>
+    <string name="toast_edited_saved">Отредактированная копия сохранена в Pictures/SadSha</string>
     <string name="toast_edited_failed">Не удалось сохранить отредактированную копию</string>
-    <string name="toast_editor_saved">Отредактированная копия сохранена в Pictures/Iris</string>
+    <string name="toast_editor_saved">Отредактированная копия сохранена в Pictures/SadSha</string>
     <string name="toast_editor_failed">Не удалось сохранить отредактированную копию</string>
     <string name="toast_optics_unlocked">Оптика Ибн аль-Хайсама разблокирована!</string>
     <string name="toast_item_moved_to_trash">Перемещено в корзину (хранится 30 дней)</string>

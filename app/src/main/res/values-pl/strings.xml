@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <!--  App & General  -->
-    <string name="app_name">Galeria Iris</string>
+    <string name="app_name">Galeria SadSha</string>
     <string name="app_description">Działająca w pełni offline, inspirowana botaniką galeria multimediów na Androida</string>
     <string name="version_format">Wersja %1$s (Build %2$d)</string>
     
@@ -14,7 +14,7 @@
     
     <!--  Sections  -->
     <string name="section_settings">Ustawienia</string>
-    <string name="section_about">O Iris</string>
+    <string name="section_about">O SadSha</string>
     <string name="section_trash">Kosz</string>
     <string name="section_locked">Zablokowane</string>
     <string name="section_duplicates">Duplikaty</string>
@@ -83,7 +83,7 @@
     
     <!--  Permission Screen  -->
     <string name="permission_title">Twoja galeria, pięknie Twoja</string>
-    <string name="permission_desc">Zezwól na dostęp do zdjęć, aby przeglądać swoją bibliotekę. Iris nigdy nie przesyła ani nie analizuje Twoich zdjęć.</string>
+    <string name="permission_desc">Zezwól na dostęp do zdjęć, aby przeglądać swoją bibliotekę. SadSha nigdy nie przesyła ani nie analizuje Twoich zdjęć.</string>
     <string name="permission_button">Wybierz zdjęcia</string>
     
     <!--  Empty States  -->
@@ -119,9 +119,9 @@
     <string name="dialog_delete_vault_item_title">Trwale usunąć %1$s?</string>
     <string name="dialog_delete_vault_item_message">Ten element zostanie trwale usunięty z Twojego prywatnego sejfu.</string>
     <string name="prompt_free_vault_title">Sejf bez komunikatów</string>
-    <string name="prompt_free_vault_desc">Przyznanie „Dostępu do wszystkich plików” pozwala galerii Iris na ciche przenoszenie i ukrywanie zdjęć w prywatnym sejfie, bez konieczności każdorazowego potwierdzania usunięcia przez system Android.\n\nIris działa w 100% offline i nie ma dostępu do internetu, więc Twoje pliki nigdy nie opuszczają urządzenia.</string>
+    <string name="prompt_free_vault_desc">Przyznanie „Dostępu do wszystkich plików” pozwala galerii SadSha na ciche przenoszenie i ukrywanie zdjęć w prywatnym sejfie, bez konieczności każdorazowego potwierdzania usunięcia przez system Android.\n\nSadSha działa w 100% offline i nie ma dostępu do internetu, więc Twoje pliki nigdy nie opuszczają urządzenia.</string>
     <string name="dialog_prompt_free_vault_title">Sejf bez komunikatów</string>
-    <string name="dialog_prompt_free_vault_message">Przyznanie „Dostępu do wszystkich plików” pozwala galerii Iris na ciche przenoszenie i ukrywanie zdjęć w prywatnym sejfie, bez konieczności każdorazowego potwierdzania usunięcia przez system Android.\n\nIris działa w 100% offline i nie ma dostępu do internetu, więc Twoje pliki nigdy nie opuszczają urządzenia.</string>
+    <string name="dialog_prompt_free_vault_message">Przyznanie „Dostępu do wszystkich plików” pozwala galerii SadSha na ciche przenoszenie i ukrywanie zdjęć w prywatnym sejfie, bez konieczności każdorazowego potwierdzania usunięcia przez system Android.\n\nSadSha działa w 100% offline i nie ma dostępu do internetu, więc Twoje pliki nigdy nie opuszczają urządzenia.</string>
     
     <!--  Media Types & Titles  -->
     <string name="media_type_photo">zdjęcie</string>
@@ -198,7 +198,7 @@
     <string name="duplicates_keep_best_delete">Zostaw najlepsze, usuń zaznaczone: %1$d</string>
     <string name="duplicates_scan_count">%1$d z %2$d</string>
     <string name="duplicates_hero_title">Porządkuj bez obaw</string>
-    <string name="duplicates_hero_desc">Iris porównuje pliki oraz unikalne cyfrowe odciski wizualne bezpośrednio na urządzeniu. Zdjęcia nigdy nie opuszczają Twojego telefonu, a żadne pliki nie zostaną usunięte bez potwierdzenia przez system Android.</string>
+    <string name="duplicates_hero_desc">SadSha porównuje pliki oraz unikalne cyfrowe odciski wizualne bezpośrednio na urządzeniu. Zdjęcia nigdy nie opuszczają Twojego telefonu, a żadne pliki nie zostaną usunięte bez potwierdzenia przez system Android.</string>
     <string name="duplicates_comparing_progress">Porównywanie: %1$d z %2$d</string>
     <string name="duplicates_scan_again">Skanuj ponownie</string>
     <string name="duplicates_scan_library">Skanuj bibliotekę</string>
@@ -436,15 +436,15 @@
     <string name="settings_section_behavior">Zachowanie i bezpieczeństwo</string>
     <string name="settings_startup_tab">Domyślna karta startowa</string>
     <string name="settings_app_lock_title">Blokada aplikacji galerii</string>
-    <string name="settings_app_lock_desc">Wymagaj własnego kodu PIN do otwarcia galerii Iris i systemowego wyboru zdjęć</string>
+    <string name="settings_app_lock_desc">Wymagaj własnego kodu PIN do otwarcia galerii SadSha i systemowego wyboru zdjęć</string>
     <string name="settings_change_pin">Zmień PIN galerii</string>
     <string name="settings_biometric_unlock_title">Odblokowywanie odciskiem palca / biometrią</string>
-    <string name="settings_biometric_unlock_desc">Zezwól na odblokowywanie galerii Iris za pomocą odcisku palca</string>
+    <string name="settings_biometric_unlock_desc">Zezwól na odblokowywanie galerii SadSha za pomocą odcisku palca</string>
     <string name="settings_hide_vault_title">Ukryj pliki sejfu w pamięci urządzenia</string>
-    <string name="settings_hide_vault_desc">Przenosi zablokowane zdjęcia i filmy do prywatnej pamięci aplikacji, dzięki czemu inne aplikacje i menedżery plików ich nie widzą. Gdy opcja jest wyłączona, elementy są ukrywane tylko wewnątrz galerii Iris.</string>
+    <string name="settings_hide_vault_desc">Przenosi zablokowane zdjęcia i filmy do prywatnej pamięci aplikacji, dzięki czemu inne aplikacje i menedżery plików ich nie widzą. Gdy opcja jest wyłączona, elementy są ukrywane tylko wewnątrz galerii SadSha.</string>
     <string name="settings_silent_vault_title">Zarządzanie sejfem bez komunikatów</string>
     <string name="settings_silent_vault_desc_granted">Przyznano dostęp do wszystkich plików — operacje w sejfie odbywają się w tle, bez systemowych okien z potwierdzeniem.</string>
-    <string name="settings_silent_vault_desc_prompt">Przyznaj „Dostęp do wszystkich plików”, aby Iris mogła przenosić i ukrywać zdjęcia w sejfie bez wyświetlania okien potwierdzenia systemu Android.</string>
+    <string name="settings_silent_vault_desc_prompt">Przyznaj „Dostęp do wszystkich plików”, aby SadSha mogła przenosić i ukrywać zdjęcia w sejfie bez wyświetlania okien potwierdzenia systemu Android.</string>
     <string name="settings_vault_biometric_title">Blokada biometryczna prywatnego sejfu</string>
     <string name="settings_vault_biometric_desc">Wymagaj danych logowania urządzenia/kodu PIN podczas przeglądania zablokowanych elementów sejfu</string>
     <string name="settings_confirm_delete_title">Potwierdzaj przed usunięciem</string>
@@ -459,20 +459,20 @@
     <string name="album_sample_downloads">Pobrane</string>
     <string name="album_sample_wallpapers">Tapety</string>
     <string name="settings_preferred_editor_title">Domyślny edytor zdjęć</string>
-    <string name="settings_preferred_editor_desc">Wybierz, czy dotknięcie edycji ma otwierać Edytor Iris, czy aplikacje zewnętrzne</string>
+    <string name="settings_preferred_editor_desc">Wybierz, czy dotknięcie edycji ma otwierać Edytor SadSha, czy aplikacje zewnętrzne</string>
     <string name="settings_editor_always_ask">Zawsze pytaj</string>
-    <string name="settings_editor_builtin">Edytor Iris (Wbudowany)</string>
+    <string name="settings_editor_builtin">Edytor SadSha (Wbudowany)</string>
     <string name="settings_editor_external">Edytor zewnętrzny</string>
     
     <string name="editor_choice_title">Edytuj zdjęcie</string>
-    <string name="editor_builtin_title">Edytor Iris</string>
+    <string name="editor_builtin_title">Edytor SadSha</string>
     <string name="editor_builtin_desc">Wbudowane filtry, przycinanie i korekcja kolorów</string>
     <string name="editor_external_title">Edytor zewnętrzny</string>
     <string name="editor_external_desc">Otwórz w ImageToolbox, Lightroom, Snapseed itp.</string>
     <string name="editor_remember_choice">Zawsze używaj tej opcji</string>
     <string name="edit_with_external_title">Edytuj zdjęcie w…</string>
     <string name="edit_video_with_external_title">Edytuj wideo w…</string>
-    <string name="action_edit_builtin">Edytuj w Edytorze Iris</string>
+    <string name="action_edit_builtin">Edytuj w Edytorze SadSha</string>
     <string name="action_edit_external">Edytuj w aplikacji zewnętrznej</string>
     <string name="no_external_editor_found">Nie znaleziono zewnętrznej aplikacji do edycji</string>
     
@@ -484,7 +484,7 @@
     <string name="settings_reset_confirm">Przywróć domyślne</string>
     
     <!--  App Lock & PIN Dialogs  -->
-    <string name="app_lock_title">Odblokuj galerię Iris</string>
+    <string name="app_lock_title">Odblokuj galerię SadSha</string>
     <string name="app_lock_picker_title">Odblokuj, aby wybrać multimedia</string>
     <string name="app_lock_welcome_back">Witaj ponownie</string>
     <string name="app_lock_select_media">Wybierz multimedia</string>
@@ -495,7 +495,7 @@
     <string name="app_lock_picker_subtitle">Wprowadź PIN galerii, aby wybrać zdjęcia</string>
     <string name="app_lock_wrong_pin">Niepoprawny PIN. Spróbuj ponownie.</string>
     <string name="app_lock_too_many_attempts">Zbyt wiele prób. Spróbuj ponownie za %1$d s.</string>
-    <string name="app_lock_biometric_title">Odblokuj galerię Iris</string>
+    <string name="app_lock_biometric_title">Odblokuj galerię SadSha</string>
     <string name="app_lock_biometric_subtitle">Zeskanuj odcisk palca, aby kontynuować</string>
     <string name="app_lock_scan_fingerprint">Zeskanuj odcisk palca, aby kontynuować</string>
     <string name="app_lock_biometric_negative">Użyj kodu PIN</string>
@@ -577,13 +577,13 @@
     <string name="editor_warmth">Temperatura barwowa</string>
     
     <!--  About Screen  -->
-    <string name="about_title">O aplikacji Iris</string>
+    <string name="about_title">O aplikacji SadSha</string>
     <string name="about_developer_project">Twórca i projekt</string>
     <string name="about_developer_label">Twórca</string>
     <string name="about_developer_name">Mohamad Oday (@MohamadOday)</string>
     <string name="about_website_label">Strona www i portfolio</string>
     <string name="about_source_label">Kod źródłowy i repozytorium</string>
-    <string name="about_source_url">github.com/MohamadOday/iris-gallery</string>
+    <string name="about_source_url">github.com/fnjlabs-arch/iris-gallery</string>
     <string name="about_license_label">Licencja</string>
     <string name="about_license_name">Apache License 2.0 (Open Source)</string>
     <string name="about_general_info">Informacje ogólne</string>
@@ -619,7 +619,7 @@
     <string name="toast_items_vaulted">Przeniesiono %1$d elem. do ukrytego sejfu</string>
     <string name="toast_vault_index_failed">Nie udało się zapisać indeksu sejfu. Nic nie zostało usunięte, spróbuj ponownie.</string>
     <string name="toast_vault_items_moved">Przeniesiono %1$d elem. do ukrytego sejfu</string>
-    <string name="toast_vault_items_locked_gallery">Ukryto %1$d elem. w galerii Iris</string>
+    <string name="toast_vault_items_locked_gallery">Ukryto %1$d elem. w galerii SadSha</string>
     <string name="toast_vault_items_restored">Przywrócono %1$d elem. z sejfu</string>
     <string name="toast_vault_items_deleted">Trwale usunięto %1$d elem.</string>
     <string name="toast_lock_cancelled">Anulowano blokowanie</string>
@@ -632,9 +632,9 @@
     <string name="toast_pin_enabled">Włączono PIN galerii</string>
     <string name="toast_pin_changed">Zaktualizowano PIN galerii</string>
     <string name="toast_pin_disabled">Usunięto PIN galerii</string>
-    <string name="toast_edited_saved">Zapisano edytowaną kopię w Pictures/Iris</string>
+    <string name="toast_edited_saved">Zapisano edytowaną kopię w Pictures/SadSha</string>
     <string name="toast_edited_failed">Nie udało się zapisać edytowanej kopii</string>
-    <string name="toast_editor_saved">Zapisano edytowaną kopię w Pictures/Iris</string>
+    <string name="toast_editor_saved">Zapisano edytowaną kopię w Pictures/SadSha</string>
     <string name="toast_editor_failed">Nie udało się zapisać edytowanej kopii</string>
     <string name="toast_optics_unlocked">Optyka Ibn al-Haythama odblokowana!</string>
     <string name="toast_item_moved_to_trash">Przeniesiono do kosza (przechowywane przez 30 dni)</string>
@@ -754,8 +754,8 @@
     
     <!--  Trash & Vault Enhancements  -->
     <string name="settings_system_trash_title">Używaj systemowego kosza</string>
-    <string name="settings_system_trash_desc">Synchronizuj usunięte multimedia z koszem systemu Android (MediaStore). Po wyłączeniu multimedia są przechowywane w prywatnym koszu aplikacji Iris Gallery.</string>
-    <string name="action_hide_in_iris">Ukryj tylko w Iris</string>
+    <string name="settings_system_trash_desc">Synchronizuj usunięte multimedia z koszem systemu Android (MediaStore). Po wyłączeniu multimedia są przechowywane w prywatnym koszu aplikacji SadSha Gallery.</string>
+    <string name="action_hide_in_sadsha">Ukryj tylko w SadSha</string>
     <string name="toast_vault_restore_failed">Nie udało się przywrócić elementów. Przyznaj „Dostęp do wszystkich plików” w ustawieniach.</string>
     
     <!--  Wallpaper Settings & Targets  -->
@@ -805,7 +805,7 @@
     <string name="viewer_secure_sharing_tip_all">Bezpieczne udostępnianie: wszystkie metadane są usuwane przed udostępnieniem. Dotknij, aby skonfigurować.</string>
     <string name="viewer_secure_sharing_tip_off">Bezpieczne udostępnianie: pliki są udostępniane z pełnymi metadanymi. Dotknij, aby skonfigurować.</string>
     <string name="dialog_secure_sharing_hint_title">Bezpieczne udostępnianie</string>
-    <string name="dialog_secure_sharing_hint_desc">Aby chronić Twoją prywatność, Iris może usuwać współrzędne GPS i metadane aparatu przed udostępnieniem plików. Oryginalne pliki pozostaną nienaruszone.</string>
+    <string name="dialog_secure_sharing_hint_desc">Aby chronić Twoją prywatność, SadSha może usuwać współrzędne GPS i metadane aparatu przed udostępnieniem plików. Oryginalne pliki pozostaną nienaruszone.</string>
     <string name="action_dont_show_again">Nie pokazuj ponownie</string>
     <string name="action_configure">Konfiguruj</string>
 

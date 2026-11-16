@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <!-- App & General -->
-    <string name="app_name">Iris Gallery</string>
+    <string name="app_name">SadSha Gallery</string>
     <string name="app_description">植物のアイリスに着想を得た、完全オフラインのAndroidメディアギャラリー</string>
     <string name="version_format">バージョン %1$s (ビルド %2$d)</string>
 
@@ -13,7 +13,7 @@
 
     <!-- Sections -->
     <string name="section_settings">設定</string>
-    <string name="section_about">Iris について</string>
+    <string name="section_about">SadSha について</string>
     <string name="section_trash">ごみ箱</string>
     <string name="section_locked">ロック</string>
     <string name="section_duplicates">重複アイテム</string>
@@ -80,7 +80,7 @@
 
     <!-- Permission Screen -->
     <string name="permission_title">あなただけの美しいギャラリー</string>
-    <string name="permission_desc">ライブラリを表示するには、写真へのアクセスを許可してください。Iris が写真をアップロードしたり外部で分析したりすることは一切ありません。</string>
+    <string name="permission_desc">ライブラリを表示するには、写真へのアクセスを許可してください。SadSha が写真をアップロードしたり外部で分析したりすることは一切ありません。</string>
     <string name="permission_button">写真を選択</string>
 
     <!-- Empty States -->
@@ -116,9 +116,9 @@
     <string name="dialog_delete_vault_item_title">%1$s を完全に削除しますか？</string>
     <string name="dialog_delete_vault_item_message">このアイテムはプライベート保管庫から完全に削除されます。</string>
     <string name="prompt_free_vault_title">確認なしで保管庫を利用</string>
-    <string name="prompt_free_vault_desc">「すべてのファイルへのアクセス」を許可すると、Android の削除確認メッセージを表示することなく、写真をプライベート保管庫に移動して非表示にできます。\n\nIris は完全オフラインでインターネットアクセスを行わないため、ファイルが端末外に送信されることはありません。</string>
+    <string name="prompt_free_vault_desc">「すべてのファイルへのアクセス」を許可すると、Android の削除確認メッセージを表示することなく、写真をプライベート保管庫に移動して非表示にできます。\n\nSadSha は完全オフラインでインターネットアクセスを行わないため、ファイルが端末外に送信されることはありません。</string>
     <string name="dialog_prompt_free_vault_title">確認なしで保管庫を利用</string>
-    <string name="dialog_prompt_free_vault_message">「すべてのファイルへのアクセス」を許可すると、Android の削除確認メッセージを表示することなく、写真をプライベート保管庫に移動して非表示にできます。\n\nIris は完全オフラインでインターネットアクセスを行わないため、ファイルが端末外に送信されることはありません。</string>
+    <string name="dialog_prompt_free_vault_message">「すべてのファイルへのアクセス」を許可すると、Android の削除確認メッセージを表示することなく、写真をプライベート保管庫に移動して非表示にできます。\n\nSadSha は完全オフラインでインターネットアクセスを行わないため、ファイルが端末外に送信されることはありません。</string>
 
     <!-- Media Types & Titles -->
     <string name="media_type_photo">写真</string>
@@ -157,7 +157,7 @@
     <string name="library_formats_subtitle">RAW、GIF、モーションフォト、パノラマ</string>
     <string name="library_settings_title">設定とカスタマイズ</string>
     <string name="library_settings_subtitle">テーマ、パレット、グリッドスタイル、ジェスチャー</string>
-    <string name="library_about_title">Iris について</string>
+    <string name="library_about_title">SadSha について</string>
     <string name="library_about_subtitle">開発者、オープンソースプロジェクト、アプリ詳細</string>
 
     <!-- Media Formats Filters -->
@@ -181,7 +181,7 @@
     <string name="duplicates_keep_best_delete">ベストショットを残して %1$d 件を削除</string>
     <string name="duplicates_scan_count">%1$d / %2$d</string>
     <string name="duplicates_hero_title">安心して空き容量を確保</string>
-    <string name="duplicates_hero_desc">Iris はファイルおよび端末内で生成される軽量な視覚的特徴量を比較します。写真が端末外に送信されることはなく、Android の確認なしに削除されることもありません。</string>
+    <string name="duplicates_hero_desc">SadSha はファイルおよび端末内で生成される軽量な視覚的特徴量を比較します。写真が端末外に送信されることはなく、Android の確認なしに削除されることもありません。</string>
     <string name="duplicates_comparing_progress">%1$d / %2$d を比較中</string>
     <string name="duplicates_scan_again">再スキャン</string>
     <string name="duplicates_scan_library">ライブラリをスキャン</string>
@@ -305,12 +305,12 @@
     <string name="settings_section_behavior">動作とセキュリティ</string>
     <string name="settings_startup_tab">起動時のデフォルトタブ</string>
     <string name="settings_app_lock_title">ギャラリーのアプリロック</string>
-    <string name="settings_app_lock_desc">Iris Gallery および画像選択ツールを開く際にカスタムPINを要求</string>
+    <string name="settings_app_lock_desc">SadSha Gallery および画像選択ツールを開く際にカスタムPINを要求</string>
     <string name="settings_change_pin">ギャラリーPINの変更</string>
     <string name="settings_biometric_unlock_title">指紋 / 生体認証ロック解除</string>
-    <string name="settings_biometric_unlock_desc">指紋認証による Iris Gallery のロック解除を許可</string>
+    <string name="settings_biometric_unlock_desc">指紋認証による SadSha Gallery のロック解除を許可</string>
     <string name="settings_hide_vault_title">保管庫メディアをストレージから隠す</string>
-    <string name="settings_hide_vault_desc">ロックした写真や動画をアプリ専用ストレージに移動し、他のアプリやファイルマネージャーから見えないようにします。無効時は Iris Gallery 内でのみ非表示になります。</string>
+    <string name="settings_hide_vault_desc">ロックした写真や動画をアプリ専用ストレージに移動し、他のアプリやファイルマネージャーから見えないようにします。無効時は SadSha Gallery 内でのみ非表示になります。</string>
     <string name="settings_silent_vault_title">確認なしの保管庫管理</string>
     <string name="settings_silent_vault_desc_granted">すべてのファイルへのアクセスが許可されています — システム確認ポップアップなしで保管庫操作が行われます。</string>
     <string name="settings_silent_vault_desc_prompt">「すべてのファイルへのアクセス」を許可すると、Android の確認ポップアップなしで写真を保管庫へ移動・非表示にできます。</string>
@@ -319,19 +319,19 @@
     <string name="settings_confirm_delete_title">削除前に確認する</string>
     <string name="settings_confirm_delete_desc">ゴミ箱への移動や完全削除の前に確認ダイアログを表示します</string>
     <string name="settings_preferred_editor_title">デフォルトの写真エディタ</string>
-    <string name="settings_preferred_editor_desc">編集ボタンをタップした際にIrisエディタを開くか外部アプリを開くかを選択します</string>
+    <string name="settings_preferred_editor_desc">編集ボタンをタップした際にSadShaエディタを開くか外部アプリを開くかを選択します</string>
     <string name="settings_editor_always_ask">毎回確認</string>
-    <string name="settings_editor_builtin">Irisエディタ（内蔵）</string>
+    <string name="settings_editor_builtin">SadShaエディタ（内蔵）</string>
     <string name="settings_editor_external">外部アプリ</string>
 
     <string name="editor_choice_title">写真を編集</string>
-    <string name="editor_builtin_title">Irisエディタ</string>
+    <string name="editor_builtin_title">SadShaエディタ</string>
     <string name="editor_builtin_desc">内蔵のフィルター、トリミング、色調補正</string>
     <string name="editor_external_title">外部アプリ</string>
     <string name="editor_external_desc">ImageToolbox、Lightroom、Snapseedなどで開く</string>
     <string name="editor_remember_choice">この選択を常に使用</string>
     <string name="edit_with_external_title">アプリで写真を編集…</string>
-    <string name="action_edit_builtin">Irisエディタで編集</string>
+    <string name="action_edit_builtin">SadShaエディタで編集</string>
     <string name="action_edit_external">外部アプリで編集</string>
 
     <string name="settings_section_storage">ストレージとリセット</string>
@@ -342,7 +342,7 @@
     <string name="settings_reset_confirm">初期値にリセット</string>
 
     <!-- App Lock & PIN Dialogs -->
-    <string name="app_lock_title">Iris Gallery のロックを解除</string>
+    <string name="app_lock_title">SadSha Gallery のロックを解除</string>
     <string name="app_lock_picker_title">メディア選択のロックを解除</string>
     <string name="app_lock_welcome_back">おかえりなさい</string>
     <string name="app_lock_select_media">メディアを選択</string>
@@ -352,7 +352,7 @@
     <string name="app_lock_subtitle">ロックを解除するにはギャラリーPINを入力してください</string>
     <string name="app_lock_picker_subtitle">写真を選択するにはギャラリーPINを入力してください</string>
     <string name="app_lock_wrong_pin">PINが正しくありません。もう一度お試しください。</string>
-    <string name="app_lock_biometric_title">Iris Gallery のロックを解除</string>
+    <string name="app_lock_biometric_title">SadSha Gallery のロックを解除</string>
     <string name="app_lock_biometric_subtitle">続行するには指紋をスキャンしてください</string>
     <string name="app_lock_scan_fingerprint">続行するには指紋をスキャンしてください</string>
     <string name="app_lock_biometric_negative">PIN を使用</string>
@@ -417,13 +417,13 @@
     <string name="editor_warmth">色温度</string>
 
     <!-- About Screen -->
-    <string name="about_title">Iris について</string>
+    <string name="about_title">SadSha について</string>
     <string name="about_developer_project">開発者とプロジェクト</string>
     <string name="about_developer_label">開発者</string>
     <string name="about_developer_name">Mohamad Oday (@MohamadOday)</string>
     <string name="about_website_label">ウェブサイト・ポートフォリオ</string>
     <string name="about_source_label">ソースコード・リポジトリ</string>
-    <string name="about_source_url">github.com/MohamadOday/iris-gallery</string>
+    <string name="about_source_url">github.com/fnjlabs-arch/iris-gallery</string>
     <string name="about_license_label">ライセンス</string>
     <string name="about_license_name">Apache License 2.0 (オープンソース)</string>
     <string name="about_general_info">一般情報</string>
@@ -458,7 +458,7 @@
     <!-- Toasts -->
     <string name="toast_items_vaulted">%1$d 件のアイテムを保管庫に移動しました</string>
     <string name="toast_vault_items_moved">%1$d 件のアイテムを保管庫に移動しました</string>
-    <string name="toast_vault_items_locked_gallery">%1$d 件のアイテムを Iris Gallery 内で非表示にしました</string>
+    <string name="toast_vault_items_locked_gallery">%1$d 件のアイテムを SadSha Gallery 内で非表示にしました</string>
     <string name="toast_vault_items_restored">%1$d 件のアイテムを保管庫から復元しました</string>
     <string name="toast_vault_items_deleted">%1$d 件のアイテムを完全に削除しました</string>
     <string name="toast_lock_cancelled">ロックをキャンセルしました</string>
@@ -471,9 +471,9 @@
     <string name="toast_pin_enabled">ギャラリーPINを有効にしました</string>
     <string name="toast_pin_changed">ギャラリーPINを更新しました</string>
     <string name="toast_pin_disabled">ギャラリーPINを解除しました</string>
-    <string name="toast_edited_saved">編集したコピーを Pictures/Iris に保存しました</string>
+    <string name="toast_edited_saved">編集したコピーを Pictures/SadSha に保存しました</string>
     <string name="toast_edited_failed">編集したコピーを保存できませんでした</string>
-    <string name="toast_editor_saved">編集したコピーを Pictures/Iris に保存しました</string>
+    <string name="toast_editor_saved">編集したコピーを Pictures/SadSha に保存しました</string>
     <string name="toast_editor_failed">編集したコピーを保存できませんでした</string>
     <string name="toast_optics_unlocked">イブン・アル＝ハイサム光学がアンロックされました！</string>
     <string name="toast_item_moved_to_trash">ゴミ箱に移動しました（30日間保持）</string>

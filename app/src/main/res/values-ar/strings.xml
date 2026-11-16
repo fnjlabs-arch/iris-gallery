@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <!-- App & General -->
-    <string name="app_name">معرض Iris</string>
+    <string name="app_name">معرض SadSha</string>
     <string name="app_description">معرض وسائط أندرويد دون إنترنت، مستوحى من زهرة السوسن</string>
     <string name="version_format">الإصدار %1$s (البناء %2$d)</string>
 
@@ -13,7 +13,7 @@
 
     <!-- Sections -->
     <string name="section_settings">الإعدادات</string>
-    <string name="section_about">حول Iris</string>
+    <string name="section_about">حول SadSha</string>
     <string name="section_trash">سلة المهملات</string>
     <string name="section_locked">المقفلة</string>
     <string name="section_duplicates">التكرارات</string>
@@ -80,7 +80,7 @@
 
     <!-- Permission Screen -->
     <string name="permission_title">معرض صورك، بجماله وخصوصيته</string>
-    <string name="permission_desc">امنح إذن الوصول للصور لتصفح مكتبتك. لا يقوم تطبيق Iris برفع صورك أو تحليلها مطلقاً.</string>
+    <string name="permission_desc">امنح إذن الوصول للصور لتصفح مكتبتك. لا يقوم تطبيق SadSha برفع صورك أو تحليلها مطلقاً.</string>
     <string name="permission_button">اختيار الصور</string>
 
     <!-- Empty States -->
@@ -116,9 +116,9 @@
     <string name="dialog_delete_vault_item_title">حذف %1$s نهائياً؟</string>
     <string name="dialog_delete_vault_item_message">سيتم حذف هذا العنصر نهائياً من خزنتك الخاصة.</string>
     <string name="prompt_free_vault_title">خزنة دون نوافذ تأكيد</string>
-    <string name="prompt_free_vault_desc">منح إذن \'الوصول إلى جميع الملفات\' يتيح لمعرض Iris نقل الصور وإخفاءها في خزنتك الخاصة بسلاسة دون أن يطلب أندرويد تأكيد الحذف في كل مرة.\n\nيعمل تطبيق Iris دون اتصال بالإنترنت بنسبة 100%، لذا لن تغادر ملفاتك جهازك أبداً.</string>
+    <string name="prompt_free_vault_desc">منح إذن \'الوصول إلى جميع الملفات\' يتيح لمعرض SadSha نقل الصور وإخفاءها في خزنتك الخاصة بسلاسة دون أن يطلب أندرويد تأكيد الحذف في كل مرة.\n\nيعمل تطبيق SadSha دون اتصال بالإنترنت بنسبة 100%، لذا لن تغادر ملفاتك جهازك أبداً.</string>
     <string name="dialog_prompt_free_vault_title">خزنة دون نوافذ تأكيد</string>
-    <string name="dialog_prompt_free_vault_message">منح إذن \'الوصول إلى جميع الملفات\' يتيح لمعرض Iris نقل الصور وإخفاءها في خزنتك الخاصة بسلاسة دون أن يطلب أندرويد تأكيد الحذف في كل مرة.\n\nيعمل تطبيق Iris دون اتصال بالإنترنت بنسبة 100%، لذا لن تغادر ملفاتك جهازك أبداً.</string>
+    <string name="dialog_prompt_free_vault_message">منح إذن \'الوصول إلى جميع الملفات\' يتيح لمعرض SadSha نقل الصور وإخفاءها في خزنتك الخاصة بسلاسة دون أن يطلب أندرويد تأكيد الحذف في كل مرة.\n\nيعمل تطبيق SadSha دون اتصال بالإنترنت بنسبة 100%، لذا لن تغادر ملفاتك جهازك أبداً.</string>
 
     <!-- Media Types & Titles -->
     <string name="media_type_photo">صورة</string>
@@ -181,7 +181,7 @@
     <string name="duplicates_keep_best_delete">الاحتفاظ بالأفضل وحذف %1$d محددة</string>
     <string name="duplicates_scan_count">%1$d من %2$d</string>
     <string name="duplicates_hero_title">تنظيف بثقة وأمان</string>
-    <string name="duplicates_hero_desc">يقارن Iris بين الملفات وبصمات بصرية صغيرة تتم معالجتها داخل جهازك. لا تغادر صورك هاتفك أبداً، ولا يتم حذف أي شيء دون تأكيد نظام أندرويد.</string>
+    <string name="duplicates_hero_desc">يقارن SadSha بين الملفات وبصمات بصرية صغيرة تتم معالجتها داخل جهازك. لا تغادر صورك هاتفك أبداً، ولا يتم حذف أي شيء دون تأكيد نظام أندرويد.</string>
     <string name="duplicates_comparing_progress">مقارنة %1$d من %2$d</string>
     <string name="duplicates_scan_again">إعادة الفحص</string>
     <string name="duplicates_scan_library">فحص المكتبة</string>
@@ -333,33 +333,33 @@
     <string name="settings_section_behavior">السلوك والأمان</string>
     <string name="settings_startup_tab">علامة التبويب الافتراضية عند البدء</string>
     <string name="settings_app_lock_title">قفل تطبيق المعرض</string>
-    <string name="settings_app_lock_desc">طلب رمز PIN مخصص لفتح معرض Iris ومنتقي الصور</string>
+    <string name="settings_app_lock_desc">طلب رمز PIN مخصص لفتح معرض SadSha ومنتقي الصور</string>
     <string name="settings_change_pin">تغيير رمز PIN للمعرض</string>
     <string name="settings_biometric_unlock_title">إلغاء القفل بالبصمة / القياسات الحيوية</string>
-    <string name="settings_biometric_unlock_desc">السماح بفتح معرض Iris باستخدام بصمة الإصبع</string>
+    <string name="settings_biometric_unlock_desc">السماح بفتح معرض SadSha باستخدام بصمة الإصبع</string>
     <string name="settings_hide_vault_title">إخفاء وسائط الخزنة من وحدة التخزين</string>
-    <string name="settings_hide_vault_desc">نقل الصور ومقاطع الفيديو المقفلة إلى مساحة التخزين الخاصة بالتطبيق لمنع التطبيقات ومديري الملفات من رؤيتها. عند التعطيل، يتم إخفاؤها داخل معرض Iris فقط.</string>
+    <string name="settings_hide_vault_desc">نقل الصور ومقاطع الفيديو المقفلة إلى مساحة التخزين الخاصة بالتطبيق لمنع التطبيقات ومديري الملفات من رؤيتها. عند التعطيل، يتم إخفاؤها داخل معرض SadSha فقط.</string>
     <string name="settings_silent_vault_title">إدارة الخزنة دون نوافذ تأكيد</string>
     <string name="settings_silent_vault_desc_granted">تم منح إذن الوصول إلى جميع الملفات — تعمل الخزنة بسلاسة وسرعة دون أي نوافذ تأكيد من النظام.</string>
-    <string name="settings_silent_vault_desc_prompt">امنح إذن \'الوصول إلى جميع الملفات\' ليتمكن Iris من نقل الصور وإخفائها في الخزنة دون نوافذ تأكيد من أندرويد.</string>
+    <string name="settings_silent_vault_desc_prompt">امنح إذن \'الوصول إلى جميع الملفات\' ليتمكن SadSha من نقل الصور وإخفائها في الخزنة دون نوافذ تأكيد من أندرويد.</string>
     <string name="settings_vault_biometric_title">القفل الحيوي للخزنة الخاصة</string>
     <string name="settings_vault_biometric_desc">طلب بيانات اعتماد الجهاز أو رمز PIN عند عرض عناصر الخزنة المقفلة</string>
     <string name="settings_confirm_delete_title">تأكيد الحذف</string>
     <string name="settings_confirm_delete_desc">عرض نافذة تأكيد قبل نقل العناصر إلى المهملات أو حذفها نهائيًا</string>
     <string name="settings_preferred_editor_title">محرر الصور الافتراضي</string>
-    <string name="settings_preferred_editor_desc">اختيار ما إذا كان الضغط على تعديل يفتح محرر Iris أو تطبيقات خارجية</string>
+    <string name="settings_preferred_editor_desc">اختيار ما إذا كان الضغط على تعديل يفتح محرر SadSha أو تطبيقات خارجية</string>
     <string name="settings_editor_always_ask">السؤال دائمًا</string>
-    <string name="settings_editor_builtin">محرر Iris (المدمج)</string>
+    <string name="settings_editor_builtin">محرر SadSha (المدمج)</string>
     <string name="settings_editor_external">محرر خارجي</string>
 
     <string name="editor_choice_title">تعديل الصورة</string>
-    <string name="editor_builtin_title">محرر Iris</string>
+    <string name="editor_builtin_title">محرر SadSha</string>
     <string name="editor_builtin_desc">الفلاتر المدمجة والقص وتعديل الألوان</string>
     <string name="editor_external_title">تطبيق خارجي</string>
     <string name="editor_external_desc">فتح في ImageToolbox أو Lightroom أو Snapseed وغيرها</string>
     <string name="editor_remember_choice">استخدام هذا الخيار دائمًا</string>
     <string name="edit_with_external_title">تعديل الصورة بواسطة…</string>
-    <string name="action_edit_builtin">تعديل بواسطة محرر Iris</string>
+    <string name="action_edit_builtin">تعديل بواسطة محرر SadSha</string>
     <string name="action_edit_external">تعديل بواسطة تطبيق خارجي</string>
 
     <string name="settings_section_storage">التخزين وإعادة الضبط</string>
@@ -370,7 +370,7 @@
     <string name="settings_reset_confirm">إعادة الضبط للافتراضي</string>
 
     <!-- App Lock & PIN Dialogs -->
-    <string name="app_lock_title">إلغاء قفل معرض Iris</string>
+    <string name="app_lock_title">إلغاء قفل معرض SadSha</string>
     <string name="app_lock_picker_title">إلغاء القفل لاختيار الوسائط</string>
     <string name="app_lock_welcome_back">مرحباً بك مجدداً</string>
     <string name="app_lock_select_media">اختيار الوسائط</string>
@@ -380,7 +380,7 @@
     <string name="app_lock_subtitle">أدخل رمز PIN للمعرض لإلغاء القفل</string>
     <string name="app_lock_picker_subtitle">أدخل رمز PIN للمعرض لاختيار الصور</string>
     <string name="app_lock_wrong_pin">رمز PIN غير صحيح. يرجى المحاولة مرة أخرى.</string>
-    <string name="app_lock_biometric_title">إلغاء قفل معرض Iris</string>
+    <string name="app_lock_biometric_title">إلغاء قفل معرض SadSha</string>
     <string name="app_lock_biometric_subtitle">امسح بصمة إصبعك للمتابعة</string>
     <string name="app_lock_scan_fingerprint">امسح بصمة إصبعك للمتابعة</string>
     <string name="app_lock_biometric_negative">استخدام رمز PIN</string>
@@ -460,13 +460,13 @@
     <string name="editor_warmth">الدفء</string>
 
     <!-- About Screen -->
-    <string name="about_title">حول Iris</string>
+    <string name="about_title">حول SadSha</string>
     <string name="about_developer_project">المطور والمشروع</string>
     <string name="about_developer_label">المطور</string>
     <string name="about_developer_name">Mohamad Oday (@MohamadOday)</string>
     <string name="about_website_label">الموقع الإلكتروني ومعرض الأعمال</string>
     <string name="about_source_label">المصدر والمستودع البرمجي</string>
-    <string name="about_source_url">github.com/MohamadOday/iris-gallery</string>
+    <string name="about_source_url">github.com/fnjlabs-arch/iris-gallery</string>
     <string name="about_license_label">الترخيص</string>
     <string name="about_license_name">رخصة أباتشي 2.0 (مفتوح المصدر)</string>
     <string name="about_general_info">معلومات عامة</string>
@@ -501,7 +501,7 @@
     <!-- Toasts -->
     <string name="toast_items_vaulted">تم نقل %1$d عنصر إلى الخزنة المخفية</string>
     <string name="toast_vault_items_moved">تم نقل %1$d عنصر إلى الخزنة المخفية</string>
-    <string name="toast_vault_items_locked_gallery">تم إخفاء %1$d عنصر في معرض Iris</string>
+    <string name="toast_vault_items_locked_gallery">تم إخفاء %1$d عنصر في معرض SadSha</string>
     <string name="toast_vault_items_restored">تمت استعادة %1$d عنصر من الخزنة</string>
     <string name="toast_vault_items_deleted">تم حذف %1$d عنصر نهائياً</string>
     <string name="toast_lock_cancelled">تم إلغاء القفل</string>
@@ -514,9 +514,9 @@
     <string name="toast_pin_enabled">تم تفعيل رمز PIN للمعرض</string>
     <string name="toast_pin_changed">تم تحديث رمز PIN للمعرض</string>
     <string name="toast_pin_disabled">تمت إزالة رمز PIN للمعرض</string>
-    <string name="toast_edited_saved">تم حفظ النسخة المعدلة في Pictures/Iris</string>
+    <string name="toast_edited_saved">تم حفظ النسخة المعدلة في Pictures/SadSha</string>
     <string name="toast_edited_failed">تعذر حفظ النسخة المعدلة</string>
-    <string name="toast_editor_saved">تم حفظ النسخة المعدلة في Pictures/Iris</string>
+    <string name="toast_editor_saved">تم حفظ النسخة المعدلة في Pictures/SadSha</string>
     <string name="toast_editor_failed">تعذر حفظ النسخة المعدلة</string>
     <string name="toast_optics_unlocked">تم كشف بصريات ابن الهيثم!</string>
     <string name="toast_item_moved_to_trash">تم النقل إلى سلة المهملات (تُحفظ لمدة 30 يومًا)</string>
@@ -745,7 +745,7 @@
     <string name="viewer_secure_sharing_tip_all">المشاركة الآمنة: يتم إزالة كافة البيانات الوصفية قبل المشاركة. اضغط للضبط.</string>
     <string name="viewer_secure_sharing_tip_off">المشاركة الآمنة: تتم المشاركة بكافة البيانات الأصلية. اضغط للضبط.</string>
     <string name="dialog_secure_sharing_hint_title">المشاركة الآمنة</string>
-    <string name="dialog_secure_sharing_hint_desc">يمكن لـ Iris إزالة إحداثيات GPS وبيانات الكاميرا تلقائياً قبل مشاركة الوسائط مع التطبيقات لحماية خصوصيتك. تبقى ملفاتك الأصلية دون تعديل.</string>
+    <string name="dialog_secure_sharing_hint_desc">يمكن لـ SadSha إزالة إحداثيات GPS وبيانات الكاميرا تلقائياً قبل مشاركة الوسائط مع التطبيقات لحماية خصوصيتك. تبقى ملفاتك الأصلية دون تعديل.</string>
     <string name="action_dont_show_again">عدم الإظهار مجدداً</string>
     <string name="action_configure">ضبط</string>
 

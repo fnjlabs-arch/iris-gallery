@@ -5,6 +5,6 @@
     <exclude domain="file" path="trash" />
     <exclude domain="file" path="trash_index.json" />
     <exclude domain="file" path="media_snapshot.bin" />
-    <exclude domain="sharedpref" path="iris_gallery_settings.xml" />
+    <exclude domain="sharedpref" path="sadsha_gallery_settings.xml" />
     <exclude domain="sharedpref" path="library_preferences.xml" />
 </full-backup-content>

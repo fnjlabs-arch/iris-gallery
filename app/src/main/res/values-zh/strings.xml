@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <!-- App & General -->
-    <string name="app_name">Iris Gallery</string>
+    <string name="app_name">SadSha Gallery</string>
     <string name="app_description">纯离线、植物灵感设计的 Android 媒体相册</string>
     <string name="version_format">版本 %1$s (构建号 %2$d)</string>
 
@@ -13,7 +13,7 @@
 
     <!-- Sections -->
     <string name="section_settings">设置</string>
-    <string name="section_about">关于 Iris</string>
+    <string name="section_about">关于 SadSha</string>
     <string name="section_trash">回收站</string>
     <string name="section_locked">私密相册</string>
     <string name="section_duplicates">重复项</string>
@@ -80,7 +80,7 @@
 
     <!-- Permission Screen -->
     <string name="permission_title">你的相册，尽享优雅</string>
-    <string name="permission_desc">请授予照片访问权限以浏览你的媒体库。Iris 绝不会上传或分析你的照片。</string>
+    <string name="permission_desc">请授予照片访问权限以浏览你的媒体库。SadSha 绝不会上传或分析你的照片。</string>
     <string name="permission_button">选择照片</string>
 
     <!-- Empty States -->
@@ -116,9 +116,9 @@
     <string name="dialog_delete_vault_item_title">永久删除 %1$s？</string>
     <string name="dialog_delete_vault_item_message">该项目将从您的私密相册中永久移除。</string>
     <string name="prompt_free_vault_title">免提示私密相册</string>
-    <string name="prompt_free_vault_desc">授予“所有文件访问权限”后，Iris Gallery 可以在将照片移入私密相册并隐藏时无需 Android 系统每次弹出删除确认提示。\n\nIris 是一款 100% 离线应用，完全没有网络访问权限，您的文件绝不会离开您的设备。</string>
+    <string name="prompt_free_vault_desc">授予“所有文件访问权限”后，SadSha Gallery 可以在将照片移入私密相册并隐藏时无需 Android 系统每次弹出删除确认提示。\n\nSadSha 是一款 100% 离线应用，完全没有网络访问权限，您的文件绝不会离开您的设备。</string>
     <string name="dialog_prompt_free_vault_title">免提示私密相册</string>
-    <string name="dialog_prompt_free_vault_message">授予“所有文件访问权限”后，Iris Gallery 可以在将照片移入私密相册并隐藏时无需 Android 系统每次弹出删除确认提示。\n\nIris 是一款 100% 离线应用，完全没有网络访问权限，您的文件绝不会离开您的设备。</string>
+    <string name="dialog_prompt_free_vault_message">授予“所有文件访问权限”后，SadSha Gallery 可以在将照片移入私密相册并隐藏时无需 Android 系统每次弹出删除确认提示。\n\nSadSha 是一款 100% 离线应用，完全没有网络访问权限，您的文件绝不会离开您的设备。</string>
 
     <!-- Media Types & Titles -->
     <string name="media_type_photo">照片</string>
@@ -186,7 +186,7 @@
     <string name="duplicates_keep_best_delete">保留最佳，删除选中的 %1$d 项</string>
     <string name="duplicates_scan_count">%1$d / %2$d</string>
     <string name="duplicates_hero_title">放心清理存储空间</string>
-    <string name="duplicates_hero_desc">Iris 会比对文件及设备端生成的紧凑视觉指纹。照片绝不会离开您的手机，且未经 Android 系统确认绝不会删除任何内容。</string>
+    <string name="duplicates_hero_desc">SadSha 会比对文件及设备端生成的紧凑视觉指纹。照片绝不会离开您的手机，且未经 Android 系统确认绝不会删除任何内容。</string>
     <string name="duplicates_comparing_progress">正在比对 %1$d / %2$d</string>
     <string name="duplicates_scan_again">重新扫描</string>
     <string name="duplicates_scan_library">扫描媒体库</string>
@@ -325,33 +325,33 @@
     <string name="settings_section_behavior">行为与安全</string>
     <string name="settings_startup_tab">启动默认标签页</string>
     <string name="settings_app_lock_title">相册应用锁</string>
-    <string name="settings_app_lock_desc">打开 Iris Gallery 和图片选择器时需要输入自定义 PIN 码</string>
+    <string name="settings_app_lock_desc">打开 SadSha Gallery 和图片选择器时需要输入自定义 PIN 码</string>
     <string name="settings_change_pin">修改相册 PIN 码</string>
     <string name="settings_biometric_unlock_title">指纹 / 生物识别解锁</string>
-    <string name="settings_biometric_unlock_desc">允许使用指纹解锁 Iris Gallery</string>
+    <string name="settings_biometric_unlock_desc">允许使用指纹解锁 SadSha Gallery</string>
     <string name="settings_hide_vault_title">从存储中隐藏私密媒体</string>
-    <string name="settings_hide_vault_desc">将锁定的照片和视频移至私有应用存储空间，其他应用和文件管理器将无法查看。禁用时，项目仅在 Iris Gallery 内隐藏。</string>
+    <string name="settings_hide_vault_desc">将锁定的照片和视频移至私有应用存储空间，其他应用和文件管理器将无法查看。禁用时，项目仅在 SadSha Gallery 内隐藏。</string>
     <string name="settings_silent_vault_title">免提示私密相册管理</string>
     <string name="settings_silent_vault_desc_granted">已授予所有文件访问权限 —— 私密相册操作静默完成，无系统确认弹窗。</string>
-    <string name="settings_silent_vault_desc_prompt">授予“所有文件访问权限”，使 Iris 将照片移入私密相册并隐藏时无需 Android 系统确认弹窗。</string>
+    <string name="settings_silent_vault_desc_prompt">授予“所有文件访问权限”，使 SadSha 将照片移入私密相册并隐藏时无需 Android 系统确认弹窗。</string>
     <string name="settings_vault_biometric_title">私密相册生物识别锁</string>
     <string name="settings_vault_biometric_desc">查看已锁定的私密项目时需要验证设备凭据/PIN 码</string>
     <string name="settings_confirm_delete_title">删除前确认</string>
     <string name="settings_confirm_delete_desc">在移至回收站或永久删除前显示确认对话框</string>
     <string name="settings_preferred_editor_title">默认照片编辑器</string>
-    <string name="settings_preferred_editor_desc">选择点击编辑时打开 Iris 编辑器还是外部应用</string>
+    <string name="settings_preferred_editor_desc">选择点击编辑时打开 SadSha 编辑器还是外部应用</string>
     <string name="settings_editor_always_ask">每次询问</string>
-    <string name="settings_editor_builtin">Iris 编辑器 (内置)</string>
+    <string name="settings_editor_builtin">SadSha 编辑器 (内置)</string>
     <string name="settings_editor_external">外部应用</string>
 
     <string name="editor_choice_title">编辑照片</string>
-    <string name="editor_builtin_title">Iris 编辑器</string>
+    <string name="editor_builtin_title">SadSha 编辑器</string>
     <string name="editor_builtin_desc">内置滤镜、裁剪和色彩调整</string>
     <string name="editor_external_title">外部应用</string>
     <string name="editor_external_desc">在 ImageToolbox、Lightroom、Snapseed 等应用中打开</string>
     <string name="editor_remember_choice">始终使用此选项</string>
     <string name="edit_with_external_title">编辑照片方式…</string>
-    <string name="action_edit_builtin">使用 Iris 编辑器编辑</string>
+    <string name="action_edit_builtin">使用 SadSha 编辑器编辑</string>
     <string name="action_edit_external">使用外部应用编辑</string>
 
     <string name="settings_section_storage">存储与重置</string>
@@ -362,7 +362,7 @@
     <string name="settings_reset_confirm">恢复默认设置</string>
 
     <!-- App Lock & PIN Dialogs -->
-    <string name="app_lock_title">解锁 Iris Gallery</string>
+    <string name="app_lock_title">解锁 SadSha Gallery</string>
     <string name="app_lock_picker_title">解锁以选择媒体</string>
     <string name="app_lock_welcome_back">欢迎回来</string>
     <string name="app_lock_select_media">选择媒体</string>
@@ -372,7 +372,7 @@
     <string name="app_lock_subtitle">请输入相册 PIN 码以解锁</string>
     <string name="app_lock_picker_subtitle">请输入相册 PIN 码以选择照片</string>
     <string name="app_lock_wrong_pin">PIN 码错误，请重试。</string>
-    <string name="app_lock_biometric_title">解锁 Iris Gallery</string>
+    <string name="app_lock_biometric_title">解锁 SadSha Gallery</string>
     <string name="app_lock_biometric_subtitle">请验证指纹以继续</string>
     <string name="app_lock_scan_fingerprint">请验证指纹以继续</string>
     <string name="app_lock_biometric_negative">使用 PIN 码</string>
@@ -437,13 +437,13 @@
     <string name="editor_warmth">色温</string>
 
     <!-- About Screen -->
-    <string name="about_title">关于 Iris</string>
+    <string name="about_title">关于 SadSha</string>
     <string name="about_developer_project">开发者与项目</string>
     <string name="about_developer_label">开发者</string>
     <string name="about_developer_name">Mohamad Oday (@MohamadOday)</string>
     <string name="about_website_label">个人网站与作品集</string>
     <string name="about_source_label">源代码与仓库</string>
-    <string name="about_source_url">github.com/MohamadOday/iris-gallery</string>
+    <string name="about_source_url">github.com/fnjlabs-arch/iris-gallery</string>
     <string name="about_license_label">开源许可协议</string>
     <string name="about_license_name">Apache License 2.0 (开源)</string>
     <string name="about_general_info">通用信息</string>
@@ -479,7 +479,7 @@
     <string name="toast_items_vaulted">%1$d 个项目已移至私密相册</string>
     <string name="toast_vault_index_failed">无法保存私密相册索引，未删除任何文件，请重试。</string>
     <string name="toast_vault_items_moved">%1$d 个项目已移至私密相册</string>
-    <string name="toast_vault_items_locked_gallery">%1$d 个项目已在 Iris Gallery 中隐藏</string>
+    <string name="toast_vault_items_locked_gallery">%1$d 个项目已在 SadSha Gallery 中隐藏</string>
     <string name="toast_vault_items_restored">%1$d 个项目已从私密相册中恢复</string>
     <string name="toast_vault_items_deleted">%1$d 个项目已永久删除</string>
     <string name="toast_lock_cancelled">已取消锁定</string>
@@ -492,9 +492,9 @@
     <string name="toast_pin_enabled">相册 PIN 码已启用</string>
     <string name="toast_pin_changed">相册 PIN 码已更新</string>
     <string name="toast_pin_disabled">相册 PIN 码已移除</string>
-    <string name="toast_edited_saved">已将编辑后的副本保存至 Pictures/Iris</string>
+    <string name="toast_edited_saved">已将编辑后的副本保存至 Pictures/SadSha</string>
     <string name="toast_edited_failed">无法保存编辑后的副本</string>
-    <string name="toast_editor_saved">已将编辑后的副本保存至 Pictures/Iris</string>
+    <string name="toast_editor_saved">已将编辑后的副本保存至 Pictures/SadSha</string>
     <string name="toast_editor_failed">无法保存编辑后的副本</string>
     <string name="toast_optics_unlocked">已解锁海什木光学！</string>
     <string name="toast_item_moved_to_trash">已移至回收站（保留 30 天）</string>

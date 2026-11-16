@@ -1,4 +1,4 @@
-Iris Gallery is a lightweight, fluid, and privacy-focused Android gallery app built with modern Material You 3 and Jetpack Compose.
+SadSha Gallery is a lightweight, fluid, and privacy-focused Android gallery app built with modern Material You 3 and Jetpack Compose.
 
 Features:
 • 100% Offline & Private: Zero INTERNET permissions requested in the manifest. Your photos and videos never leave your device.

@@ -74,7 +74,7 @@
     </queries>
 
     <application
-        android:name=".IrisApplication"
+        android:name=".SadShaApplication"
         android:allowBackup="true"
         android:dataExtractionRules="@xml/data_extraction_rules"
         android:fullBackupContent="@xml/backup_rules"
@@ -85,7 +85,7 @@
         android:localeConfig="@xml/locales_config"
         android:supportsRtl="true"
         android:requestLegacyExternalStorage="true"
-        android:theme="@style/Theme.IrisGallery">
+        android:theme="@style/Theme.SadShaGallery">
         <activity
             android:name=".MainActivity"
             android:launchMode="singleTask"
@@ -127,11 +127,11 @@
         <receiver android:name=".BootReceiver" android:exported="false">
             <intent-filter><action android:name="android.intent.action.BOOT_COMPLETED" /></intent-filter>
         </receiver>
-        <receiver android:name=".IrisPhotoWidget" android:exported="true">
+        <receiver android:name=".SadShaPhotoWidget" android:exported="true">
             <intent-filter>
                 <action android:name="android.appwidget.action.APPWIDGET_UPDATE" />
             </intent-filter>
-            <meta-data android:name="android.appwidget.provider" android:resource="@xml/iris_photo_widget_info" />
+            <meta-data android:name="android.appwidget.provider" android:resource="@xml/sadsha_photo_widget_info" />
         </receiver>
         <provider
             android:name="androidx.core.content.FileProvider"

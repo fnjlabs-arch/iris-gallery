@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <!-- App & General -->
-    <string name="app_name">Iris Gallery</string>
+    <string name="app_name">SadSha Gallery</string>
     <string name="app_description">Galerie multimédia Android 100 % hors-ligne, d\'inspiration botanique</string>
     <string name="version_format">Version %1$s (Build %2$d)</string>
 
@@ -13,7 +13,7 @@
 
     <!-- Sections -->
     <string name="section_settings">Paramètres</string>
-    <string name="section_about">À propos d\'Iris</string>
+    <string name="section_about">À propos d\'SadSha</string>
     <string name="section_trash">Corbeille</string>
     <string name="section_locked">Verrouillé</string>
     <string name="section_duplicates">Doublons</string>
@@ -80,7 +80,7 @@
 
     <!-- Permission Screen -->
     <string name="permission_title">Votre galerie, magnifiquement vôtre</string>
-    <string name="permission_desc">Autorisez l\'accès aux photos pour parcourir votre bibliothèque. Iris ne téléverse ni n\'analyse jamais vos photos.</string>
+    <string name="permission_desc">Autorisez l\'accès aux photos pour parcourir votre bibliothèque. SadSha ne téléverse ni n\'analyse jamais vos photos.</string>
     <string name="permission_button">Choisir les photos</string>
 
     <!-- Empty States -->
@@ -116,9 +116,9 @@
     <string name="dialog_delete_vault_item_title">Supprimer définitivement %1$s ?</string>
     <string name="dialog_delete_vault_item_message">Cet élément sera définitivement supprimé de votre coffre privé.</string>
     <string name="prompt_free_vault_title">Coffre sans invite système</string>
-    <string name="prompt_free_vault_desc">Accorder l\'accès à tous les fichiers permet à Iris Gallery de déplacer et masquer vos photos dans votre coffre privé en toute discrétion, sans qu\'Android ne vous demande une confirmation de suppression à chaque fois.\n\nIris fonctionne 100 % hors-ligne sans aucun accès à Internet : vos fichiers ne quittent jamais votre appareil.</string>
+    <string name="prompt_free_vault_desc">Accorder l\'accès à tous les fichiers permet à SadSha Gallery de déplacer et masquer vos photos dans votre coffre privé en toute discrétion, sans qu\'Android ne vous demande une confirmation de suppression à chaque fois.\n\nSadSha fonctionne 100 % hors-ligne sans aucun accès à Internet : vos fichiers ne quittent jamais votre appareil.</string>
     <string name="dialog_prompt_free_vault_title">Coffre sans invite système</string>
-    <string name="dialog_prompt_free_vault_message">Accorder l\'accès à tous les fichiers permet à Iris Gallery de déplacer et masquer vos photos dans votre coffre privé en toute discrétion, sans qu\'Android ne vous demande une confirmation de suppression à chaque fois.\n\nIris fonctionne 100 % hors-ligne sans aucun accès à Internet : vos fichiers ne quittent jamais votre appareil.</string>
+    <string name="dialog_prompt_free_vault_message">Accorder l\'accès à tous les fichiers permet à SadSha Gallery de déplacer et masquer vos photos dans votre coffre privé en toute discrétion, sans qu\'Android ne vous demande une confirmation de suppression à chaque fois.\n\nSadSha fonctionne 100 % hors-ligne sans aucun accès à Internet : vos fichiers ne quittent jamais votre appareil.</string>
 
     <!-- Media Types & Titles -->
     <string name="media_type_photo">photo</string>
@@ -181,7 +181,7 @@
     <string name="duplicates_keep_best_delete">Garder la meilleure, supprimer %1$d sélectionnées</string>
     <string name="duplicates_scan_count">%1$d sur %2$d</string>
     <string name="duplicates_hero_title">Faites le tri en toute sérénité</string>
-    <string name="duplicates_hero_desc">Iris compare les fichiers et de légères empreintes visuelles sur l\'appareil. Les photos ne quittent jamais votre téléphone et rien n\'est supprimé sans confirmation d\'Android.</string>
+    <string name="duplicates_hero_desc">SadSha compare les fichiers et de légères empreintes visuelles sur l\'appareil. Les photos ne quittent jamais votre téléphone et rien n\'est supprimé sans confirmation d\'Android.</string>
     <string name="duplicates_comparing_progress">Comparaison de %1$d sur %2$d</string>
     <string name="duplicates_scan_again">Analyser à nouveau</string>
     <string name="duplicates_scan_library">Analyser la bibliothèque</string>
@@ -320,33 +320,33 @@
     <string name="settings_section_behavior">Comportement et sécurité</string>
     <string name="settings_startup_tab">Onglet d\'ouverture par défaut</string>
     <string name="settings_app_lock_title">Verrouillage de la galerie</string>
-    <string name="settings_app_lock_desc">Exiger un code PIN personnalisé pour ouvrir Iris Gallery et le sélecteur d\'images</string>
+    <string name="settings_app_lock_desc">Exiger un code PIN personnalisé pour ouvrir SadSha Gallery et le sélecteur d\'images</string>
     <string name="settings_change_pin">Modifier le code PIN de la galerie</string>
     <string name="settings_biometric_unlock_title">Déverrouillage par empreinte / biométrie</string>
-    <string name="settings_biometric_unlock_desc">Autoriser le déverrouillage d\'Iris Gallery avec votre empreinte digitale</string>
+    <string name="settings_biometric_unlock_desc">Autoriser le déverrouillage d\'SadSha Gallery avec votre empreinte digitale</string>
     <string name="settings_hide_vault_title">Masquer les médias du coffre du stockage</string>
-    <string name="settings_hide_vault_desc">Déplace les photos et vidéos verrouillées vers le stockage privé de l\'application afin que les autres applications et gestionnaires de fichiers ne puissent pas les voir. Lorsque cette option est désactivée, les éléments sont masqués uniquement dans Iris Gallery.</string>
+    <string name="settings_hide_vault_desc">Déplace les photos et vidéos verrouillées vers le stockage privé de l\'application afin que les autres applications et gestionnaires de fichiers ne puissent pas les voir. Lorsque cette option est désactivée, les éléments sont masqués uniquement dans SadSha Gallery.</string>
     <string name="settings_silent_vault_title">Gestion du coffre sans invite</string>
     <string name="settings_silent_vault_desc_granted">Accès à tous les fichiers accordé — les opérations du coffre s\'effectuent en toute discrétion sans boîte de dialogue système.</string>
-    <string name="settings_silent_vault_desc_prompt">Accordez l\'accès à tous les fichiers pour qu\'Iris puisse déplacer et masquer les photos dans le coffre sans confirmation système d\'Android.</string>
+    <string name="settings_silent_vault_desc_prompt">Accordez l\'accès à tous les fichiers pour qu\'SadSha puisse déplacer et masquer les photos dans le coffre sans confirmation système d\'Android.</string>
     <string name="settings_vault_biometric_title">Verrouillage biométrique du coffre privé</string>
     <string name="settings_vault_biometric_desc">Exiger les identifiants de l\'appareil / code PIN lors de la consultation des éléments verrouillés</string>
     <string name="settings_confirm_delete_title">Confirmer avant de supprimer</string>
     <string name="settings_confirm_delete_desc">Afficher une boîte de dialogue avant de déplacer vers la corbeille ou de supprimer définitivement</string>
     <string name="settings_preferred_editor_title">Éditeur de photos par défaut</string>
-    <string name="settings_preferred_editor_desc">Choisir si appuyer sur modifier ouvre Iris Editor ou une application externe</string>
+    <string name="settings_preferred_editor_desc">Choisir si appuyer sur modifier ouvre SadSha Editor ou une application externe</string>
     <string name="settings_editor_always_ask">Toujours demander</string>
-    <string name="settings_editor_builtin">Iris Editor (Intégré)</string>
+    <string name="settings_editor_builtin">SadSha Editor (Intégré)</string>
     <string name="settings_editor_external">Éditeur externe</string>
 
     <string name="editor_choice_title">Modifier la photo</string>
-    <string name="editor_builtin_title">Iris Editor</string>
+    <string name="editor_builtin_title">SadSha Editor</string>
     <string name="editor_builtin_desc">Filtres intégrés, recadrage et réglages des couleurs</string>
     <string name="editor_external_title">Éditeur externe</string>
     <string name="editor_external_desc">Ouvrir dans ImageToolbox, Lightroom, Snapseed, etc.</string>
     <string name="editor_remember_choice">Toujours utiliser cette option</string>
     <string name="edit_with_external_title">Modifier la photo avec…</string>
-    <string name="action_edit_builtin">Modifier avec Iris Editor</string>
+    <string name="action_edit_builtin">Modifier avec SadSha Editor</string>
     <string name="action_edit_external">Modifier avec une application externe</string>
 
     <string name="settings_section_storage">Stockage et réinitialisation</string>
@@ -357,7 +357,7 @@
     <string name="settings_reset_confirm">Rétablir les valeurs par défaut</string>
 
     <!-- App Lock & PIN Dialogs -->
-    <string name="app_lock_title">Déverrouiller Iris Gallery</string>
+    <string name="app_lock_title">Déverrouiller SadSha Gallery</string>
     <string name="app_lock_picker_title">Déverrouiller pour sélectionner des médias</string>
     <string name="app_lock_welcome_back">Heureux de vous revoir !</string>
     <string name="app_lock_select_media">Sélectionner des médias</string>
@@ -367,7 +367,7 @@
     <string name="app_lock_subtitle">Entrez le code PIN de la galerie pour déverrouiller</string>
     <string name="app_lock_picker_subtitle">Entrez le code PIN de la galerie pour sélectionner des photos</string>
     <string name="app_lock_wrong_pin">Code PIN incorrect. Veuillez réessayer.</string>
-    <string name="app_lock_biometric_title">Déverrouiller Iris Gallery</string>
+    <string name="app_lock_biometric_title">Déverrouiller SadSha Gallery</string>
     <string name="app_lock_biometric_subtitle">Scannez votre empreinte digitale pour continuer</string>
     <string name="app_lock_scan_fingerprint">Scannez votre empreinte digitale pour continuer</string>
     <string name="app_lock_biometric_negative">Utiliser le code PIN</string>
@@ -445,13 +445,13 @@
     <string name="editor_warmth">Chaleur</string>
 
     <!-- About Screen -->
-    <string name="about_title">À propos d\'Iris</string>
+    <string name="about_title">À propos d\'SadSha</string>
     <string name="about_developer_project">Développeur et projet</string>
     <string name="about_developer_label">Développeur</string>
     <string name="about_developer_name">Mohamad Oday (@MohamadOday)</string>
     <string name="about_website_label">Site web et portfolio</string>
     <string name="about_source_label">Code source et dépôt</string>
-    <string name="about_source_url">github.com/MohamadOday/iris-gallery</string>
+    <string name="about_source_url">github.com/fnjlabs-arch/iris-gallery</string>
     <string name="about_license_label">Licence</string>
     <string name="about_license_name">Licence Apache 2.0 (Open Source)</string>
     <string name="about_general_info">Informations générales</string>
@@ -486,7 +486,7 @@
     <!-- Toasts -->
     <string name="toast_items_vaulted">%1$d élément(s) déplacé(s) vers le coffre masqué</string>
     <string name="toast_vault_items_moved">%1$d élément(s) déplacé(s) vers le coffre masqué</string>
-    <string name="toast_vault_items_locked_gallery">%1$d élément(s) masqué(s) dans Iris Gallery</string>
+    <string name="toast_vault_items_locked_gallery">%1$d élément(s) masqué(s) dans SadSha Gallery</string>
     <string name="toast_vault_items_restored">%1$d élément(s) restauré(s) depuis le coffre</string>
     <string name="toast_vault_items_deleted">%1$d élément(s) définitivement supprimé(s)</string>
     <string name="toast_lock_cancelled">Verrouillage annulé</string>
@@ -499,9 +499,9 @@
     <string name="toast_pin_enabled">Code PIN de la galerie activé</string>
     <string name="toast_pin_changed">Code PIN de la galerie mis à jour</string>
     <string name="toast_pin_disabled">Code PIN de la galerie supprimé</string>
-    <string name="toast_edited_saved">Copie retouchée enregistrée dans Pictures/Iris</string>
+    <string name="toast_edited_saved">Copie retouchée enregistrée dans Pictures/SadSha</string>
     <string name="toast_edited_failed">Impossible d\'enregistrer la copie retouchée</string>
-    <string name="toast_editor_saved">Copie retouchée enregistrée dans Pictures/Iris</string>
+    <string name="toast_editor_saved">Copie retouchée enregistrée dans Pictures/SadSha</string>
     <string name="toast_editor_failed">Impossible d\'enregistrer la copie retouchée</string>
     <string name="toast_optics_unlocked">Optique d\'Ibn al-Haytham débloquée !</string>
     <string name="toast_item_moved_to_trash">Déplacé dans la corbeille (conservé 30 jours)</string>

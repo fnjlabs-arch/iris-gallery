@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <!-- App & General -->
-    <string name="app_name">Iris Gallery</string>
+    <string name="app_name">SadSha Gallery</string>
     <string name="app_description">Galleria multimediale per Android 100% offline, di ispirazione botanica</string>
     <string name="version_format">Versione %1$s (Build %2$d)</string>
 
@@ -13,7 +13,7 @@
 
     <!-- Sections -->
     <string name="section_settings">Impostazioni</string>
-    <string name="section_about">Informazioni su Iris</string>
+    <string name="section_about">Informazioni su SadSha</string>
     <string name="section_trash">Cestino</string>
     <string name="section_locked">Bloccati</string>
     <string name="section_duplicates">Duplicati</string>
@@ -80,7 +80,7 @@
 
     <!-- Permission Screen -->
     <string name="permission_title">La tua galleria, meravigliosamente tua</string>
-    <string name="permission_desc">Consenti l\'accesso alle foto per sfogliare la tua raccolta. Iris non carica né analizza mai le tue foto.</string>
+    <string name="permission_desc">Consenti l\'accesso alle foto per sfogliare la tua raccolta. SadSha non carica né analizza mai le tue foto.</string>
     <string name="permission_button">Scegli le foto</string>
 
     <!-- Empty States -->
@@ -116,9 +116,9 @@
     <string name="dialog_delete_vault_item_title">Eliminare definitivamente %1$s?</string>
     <string name="dialog_delete_vault_item_message">Questo elemento verrà rimosso definitivamente dalla tua cassaforte privata.</string>
     <string name="prompt_free_vault_title">Cassaforte senza conferme</string>
-    <string name="prompt_free_vault_desc">Concedere l\'\"Accesso a tutti i file\" consente a Iris Gallery di spostare e nascondere le foto nella cassaforte privata senza che Android richieda ogni volta la conferma di eliminazione.\n\nIris è al 100% offline e senza accesso a Internet, pertanto i tuoi file non lasciano mai il dispositivo.</string>
+    <string name="prompt_free_vault_desc">Concedere l\'\"Accesso a tutti i file\" consente a SadSha Gallery di spostare e nascondere le foto nella cassaforte privata senza che Android richieda ogni volta la conferma di eliminazione.\n\nSadSha è al 100% offline e senza accesso a Internet, pertanto i tuoi file non lasciano mai il dispositivo.</string>
     <string name="dialog_prompt_free_vault_title">Cassaforte senza conferme</string>
-    <string name="dialog_prompt_free_vault_message">Concedere l\'\"Accesso a tutti i file\" consente a Iris Gallery di spostare e nascondere le foto nella cassaforte privata senza che Android richieda ogni volta la conferma di eliminazione.\n\nIris è al 100% offline e senza accesso a Internet, pertanto i tuoi file non lasciano mai il dispositivo.</string>
+    <string name="dialog_prompt_free_vault_message">Concedere l\'\"Accesso a tutti i file\" consente a SadSha Gallery di spostare e nascondere le foto nella cassaforte privata senza che Android richieda ogni volta la conferma di eliminazione.\n\nSadSha è al 100% offline e senza accesso a Internet, pertanto i tuoi file non lasciano mai il dispositivo.</string>
 
     <!-- Media Types & Titles -->
     <string name="media_type_photo">foto</string>
@@ -181,7 +181,7 @@
     <string name="duplicates_keep_best_delete">Conserva la migliore, elimina %1$d selezionate</string>
     <string name="duplicates_scan_count">%1$d di %2$d</string>
     <string name="duplicates_hero_title">Fai spazio in tutta sicurezza</string>
-    <string name="duplicates_hero_desc">Iris confronta i file e piccole impronte visive sul dispositivo. Le foto non lasciano mai il tuo telefono e nulla viene rimosso senza la conferma di Android.</string>
+    <string name="duplicates_hero_desc">SadSha confronta i file e piccole impronte visive sul dispositivo. Le foto non lasciano mai il tuo telefono e nulla viene rimosso senza la conferma di Android.</string>
     <string name="duplicates_comparing_progress">Confronto di %1$d su %2$d</string>
     <string name="duplicates_scan_again">Scansiona di nuovo</string>
     <string name="duplicates_scan_library">Scansiona la raccolta</string>
@@ -305,33 +305,33 @@
     <string name="settings_section_behavior">Comportamento e sicurezza</string>
     <string name="settings_startup_tab">Scheda iniziale predefinita</string>
     <string name="settings_app_lock_title">Blocco app galleria</string>
-    <string name="settings_app_lock_desc">Richiedi un PIN per aprire Iris Gallery e il selettore immagini</string>
+    <string name="settings_app_lock_desc">Richiedi un PIN per aprire SadSha Gallery e il selettore immagini</string>
     <string name="settings_change_pin">Modifica PIN della galleria</string>
     <string name="settings_biometric_unlock_title">Sblocco con impronta / dati biometrici</string>
-    <string name="settings_biometric_unlock_desc">Consenti lo sblocco di Iris Gallery con l\'impronta digitale</string>
+    <string name="settings_biometric_unlock_desc">Consenti lo sblocco di SadSha Gallery con l\'impronta digitale</string>
     <string name="settings_hide_vault_title">Nascondi file della cassaforte dalla memoria</string>
-    <string name="settings_hide_vault_desc">Sposta le foto e i video protetti nella memoria privata dell\'app affinché le altre app e i gestori file non possano vederli. Se disattivato, i file saranno nascosti solo in Iris Gallery.</string>
+    <string name="settings_hide_vault_desc">Sposta le foto e i video protetti nella memoria privata dell\'app affinché le altre app e i gestori file non possano vederli. Se disattivato, i file saranno nascosti solo in SadSha Gallery.</string>
     <string name="settings_silent_vault_title">Gestione cassaforte senza conferme</string>
     <string name="settings_silent_vault_desc_granted">Accesso a tutti i file consentito: le operazioni nella cassaforte avvengono senza popup di conferma del sistema.</string>
-    <string name="settings_silent_vault_desc_prompt">Consenti l\'\"Accesso a tutti i file\" affinché Iris possa spostare e nascondere le foto nella cassaforte senza popup di conferma da parte di Android.</string>
+    <string name="settings_silent_vault_desc_prompt">Consenti l\'\"Accesso a tutti i file\" affinché SadSha possa spostare e nascondere le foto nella cassaforte senza popup di conferma da parte di Android.</string>
     <string name="settings_vault_biometric_title">Blocco biometrico per la cassaforte</string>
     <string name="settings_vault_biometric_desc">Richiedi credenziali o PIN del dispositivo per visualizzare i file protetti nella cassaforte</string>
     <string name="settings_confirm_delete_title">Conferma prima di eliminare</string>
     <string name="settings_confirm_delete_desc">Mostra finestra di conferma prima di spostare nel cestino o eliminare definitivamente</string>
     <string name="settings_preferred_editor_title">Editor foto predefinito</string>
-    <string name="settings_preferred_editor_desc">Scegli se toccando modifica si apre Iris Editor o app esterne</string>
+    <string name="settings_preferred_editor_desc">Scegli se toccando modifica si apre SadSha Editor o app esterne</string>
     <string name="settings_editor_always_ask">Chiedi sempre</string>
-    <string name="settings_editor_builtin">Iris Editor (Integrato)</string>
+    <string name="settings_editor_builtin">SadSha Editor (Integrato)</string>
     <string name="settings_editor_external">App esterna</string>
 
     <string name="editor_choice_title">Modifica foto</string>
-    <string name="editor_builtin_title">Iris Editor</string>
+    <string name="editor_builtin_title">SadSha Editor</string>
     <string name="editor_builtin_desc">Filtri integrati, ritaglio e regolazione colori</string>
     <string name="editor_external_title">App esterna</string>
     <string name="editor_external_desc">Apri in ImageToolbox, Lightroom, Snapseed, ecc.</string>
     <string name="editor_remember_choice">Usa sempre questa opzione</string>
     <string name="edit_with_external_title">Modifica foto con…</string>
-    <string name="action_edit_builtin">Modifica con Iris Editor</string>
+    <string name="action_edit_builtin">Modifica con SadSha Editor</string>
     <string name="action_edit_external">Modifica con app esterna</string>
 
     <string name="settings_section_storage">Spazio di archiviazione e ripristino</string>
@@ -342,7 +342,7 @@
     <string name="settings_reset_confirm">Ripristina predefiniti</string>
 
     <!-- App Lock & PIN Dialogs -->
-    <string name="app_lock_title">Sblocca Iris Gallery</string>
+    <string name="app_lock_title">Sblocca SadSha Gallery</string>
     <string name="app_lock_picker_title">Sblocca per selezionare elementi</string>
     <string name="app_lock_welcome_back">Bentornato</string>
     <string name="app_lock_select_media">Seleziona elementi multimediali</string>
@@ -352,7 +352,7 @@
     <string name="app_lock_subtitle">Inserisci il PIN della galleria per sbloccare</string>
     <string name="app_lock_picker_subtitle">Inserisci il PIN della galleria per selezionare le foto</string>
     <string name="app_lock_wrong_pin">PIN non corretto. Riprova.</string>
-    <string name="app_lock_biometric_title">Sblocca Iris Gallery</string>
+    <string name="app_lock_biometric_title">Sblocca SadSha Gallery</string>
     <string name="app_lock_biometric_subtitle">Scansiona l\'impronta digitale per continuare</string>
     <string name="app_lock_scan_fingerprint">Scansiona l\'impronta digitale per continuare</string>
     <string name="app_lock_biometric_negative">Usa PIN</string>
@@ -417,13 +417,13 @@
     <string name="editor_warmth">Calore</string>
 
     <!-- About Screen -->
-    <string name="about_title">Informazioni su Iris</string>
+    <string name="about_title">Informazioni su SadSha</string>
     <string name="about_developer_project">Sviluppatore e progetto</string>
     <string name="about_developer_label">Sviluppatore</string>
     <string name="about_developer_name">Mohamad Oday (@MohamadOday)</string>
     <string name="about_website_label">Sito web e portfolio</string>
     <string name="about_source_label">Codice sorgente e repository</string>
-    <string name="about_source_url">github.com/MohamadOday/iris-gallery</string>
+    <string name="about_source_url">github.com/fnjlabs-arch/iris-gallery</string>
     <string name="about_license_label">Licenza</string>
     <string name="about_license_name">Apache License 2.0 (Open Source)</string>
     <string name="about_general_info">Informazioni generali</string>
@@ -458,7 +458,7 @@
     <!-- Toasts -->
     <string name="toast_items_vaulted">%1$d elemento/i spostato/i nella cassaforte</string>
     <string name="toast_vault_items_moved">%1$d elemento/i spostato/i nella cassaforte</string>
-    <string name="toast_vault_items_locked_gallery">%1$d elemento/i nascosto/i in Iris Gallery</string>
+    <string name="toast_vault_items_locked_gallery">%1$d elemento/i nascosto/i in SadSha Gallery</string>
     <string name="toast_vault_items_restored">%1$d elemento/i ripristinato/i dalla cassaforte</string>
     <string name="toast_vault_items_deleted">%1$d elemento/i eliminato/i definitivamente</string>
     <string name="toast_lock_cancelled">Blocco annullato</string>
@@ -471,9 +471,9 @@
     <string name="toast_pin_enabled">PIN della galleria attivato</string>
     <string name="toast_pin_changed">PIN della galleria aggiornato</string>
     <string name="toast_pin_disabled">PIN della galleria rimosso</string>
-    <string name="toast_edited_saved">Copia modificata salvata in Pictures/Iris</string>
+    <string name="toast_edited_saved">Copia modificata salvata in Pictures/SadSha</string>
     <string name="toast_edited_failed">Impossibile salvare la copia modificata</string>
-    <string name="toast_editor_saved">Copia modificata salvata in Pictures/Iris</string>
+    <string name="toast_editor_saved">Copia modificata salvata in Pictures/SadSha</string>
     <string name="toast_editor_failed">Impossibile salvare la copia modificata</string>
     <string name="toast_optics_unlocked">Ottica di Ibn al-Haytham sbloccata!</string>
     <string name="toast_item_moved_to_trash">Spostato nel cestino (conservato per 30 giorni)</string>

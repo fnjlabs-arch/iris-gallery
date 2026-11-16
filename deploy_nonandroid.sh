@@ -4,7 +4,7 @@ set -euo pipefail
 SCRIPT_DIR="$(cd "$(dirname "${BASH_SOURCE[0]}")" && pwd)"
 cd "$SCRIPT_DIR"
 
-PACKAGE="com.iris.gallery"
+PACKAGE="com.sadsha.gallery"
 APK="$SCRIPT_DIR/app/build/outputs/apk/optimized/app-optimized.apk"
 
 NO_DEPLOY=false
@@ -14,7 +14,7 @@ if [[ "${1:-}" == "--no-deploy" ]]; then
     shift
 fi
 
-echo "Building Iris Gallery (desktop / non-Termux host)..."
+echo "Building SadSha Gallery (desktop / non-Termux host)..."
 
 # On desktop Linux/macOS/Windows, override the Termux-specific AAPT2 path so AGP uses standard binaries
 if command -v aapt2 >/dev/null 2>&1; then
@@ -41,7 +41,7 @@ if command -v adb >/dev/null 2>&1; then
     echo "Deploying to device via ADB..."
     adb install -r -d "$APK"
     adb shell am start -n "$PACKAGE/.MainActivity"
-    echo "Iris Gallery deployed and running."
+    echo "SadSha Gallery deployed and running."
 else
     echo "ADB not found. APK is ready at: $APK"
 fi

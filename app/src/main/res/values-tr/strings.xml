@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <!-- App & General -->
-    <string name="app_name">Iris Gallery</string>
+    <string name="app_name">SadSha Gallery</string>
     <string name="app_description">Tamamen çevrimdışı, botanikten ilham alan Android medya galerisi</string>
     <string name="version_format">Sürüm %1$s (Yapı %2$d)</string>
 
@@ -13,7 +13,7 @@
 
     <!-- Sections -->
     <string name="section_settings">Ayarlar</string>
-    <string name="section_about">Iris Hakkında</string>
+    <string name="section_about">SadSha Hakkında</string>
     <string name="section_trash">Çöp Kutusu</string>
     <string name="section_locked">Kilitli</string>
     <string name="section_duplicates">Yinelenenler</string>
@@ -80,7 +80,7 @@
 
     <!-- Permission Screen -->
     <string name="permission_title">Galeriniz, tamamen size özel</string>
-    <string name="permission_desc">Kitaplığınıza göz atmak için fotoğraf erişimine izin verin. Iris, fotoğraflarınızı asla karşıya yüklemez veya analiz etmez.</string>
+    <string name="permission_desc">Kitaplığınıza göz atmak için fotoğraf erişimine izin verin. SadSha, fotoğraflarınızı asla karşıya yüklemez veya analiz etmez.</string>
     <string name="permission_button">Fotoğrafları seç</string>
 
     <!-- Empty States -->
@@ -116,9 +116,9 @@
     <string name="dialog_delete_vault_item_title">%1$s kalıcı olarak silinsin mi?</string>
     <string name="dialog_delete_vault_item_message">Bu öge gizli kasanızdan kalıcı olarak kaldırılacaktır.</string>
     <string name="prompt_free_vault_title">Onaysız Kasa</string>
-    <string name="prompt_free_vault_desc">\'Tüm Dosyalara Erişim\' izni vermek, Iris Gallery\'nin Android her seferinde silme onayı istemeden fotoğrafları sessizce gizli kasanıza taşımasına ve gizlemesine olanak tanır.\n\nIris sıfır internet erişimiyle %100 çevrimdışıdır, bu nedenle dosyalarınız asla cihazınızdan ayrılmaz.</string>
+    <string name="prompt_free_vault_desc">\'Tüm Dosyalara Erişim\' izni vermek, SadSha Gallery\'nin Android her seferinde silme onayı istemeden fotoğrafları sessizce gizli kasanıza taşımasına ve gizlemesine olanak tanır.\n\nSadSha sıfır internet erişimiyle %100 çevrimdışıdır, bu nedenle dosyalarınız asla cihazınızdan ayrılmaz.</string>
     <string name="dialog_prompt_free_vault_title">Onaysız Kasa</string>
-    <string name="dialog_prompt_free_vault_message">\'Tüm Dosyalara Erişim\' izni vermek, Iris Gallery\'nin Android her seferinde silme onayı istemeden fotoğrafları sessizce gizli kasanıza taşımasına ve gizlemesine olanak tanır.\n\nIris sıfır internet erişimiyle %100 çevrimdışıdır, bu nedenle dosyalarınız asla cihazınızdan ayrılmaz.</string>
+    <string name="dialog_prompt_free_vault_message">\'Tüm Dosyalara Erişim\' izni vermek, SadSha Gallery\'nin Android her seferinde silme onayı istemeden fotoğrafları sessizce gizli kasanıza taşımasına ve gizlemesine olanak tanır.\n\nSadSha sıfır internet erişimiyle %100 çevrimdışıdır, bu nedenle dosyalarınız asla cihazınızdan ayrılmaz.</string>
 
     <!-- Media Types & Titles -->
     <string name="media_type_photo">fotoğraf</string>
@@ -181,7 +181,7 @@
     <string name="duplicates_keep_best_delete">En iyisini sakla, seçilen %1$d ögeyi sil</string>
     <string name="duplicates_scan_count">%1$d / %2$d</string>
     <string name="duplicates_hero_title">Güvenle temizleyin</string>
-    <string name="duplicates_hero_desc">Iris dosyaları ve küçük cihaz içi görsel parmak izlerini karşılaştırır. Fotoğraflarınız asla telefonunuzdan ayrılmaz ve Android\'in onayı olmadan hiçbir şey kaldırılmaz.</string>
+    <string name="duplicates_hero_desc">SadSha dosyaları ve küçük cihaz içi görsel parmak izlerini karşılaştırır. Fotoğraflarınız asla telefonunuzdan ayrılmaz ve Android\'in onayı olmadan hiçbir şey kaldırılmaz.</string>
     <string name="duplicates_comparing_progress">Karşılaştırılıyor: %1$d / %2$d</string>
     <string name="duplicates_scan_again">Tekrar tara</string>
     <string name="duplicates_scan_library">Kitaplığı tara</string>
@@ -305,33 +305,33 @@
     <string name="settings_section_behavior">Davranış &amp; Güvenlik</string>
     <string name="settings_startup_tab">Varsayılan Başlangıç Sekmesi</string>
     <string name="settings_app_lock_title">Galeri Uygulama Kilidi</string>
-    <string name="settings_app_lock_desc">Iris Gallery\'yi ve Görsel Seçiciyi açmak için özel PIN iste</string>
+    <string name="settings_app_lock_desc">SadSha Gallery\'yi ve Görsel Seçiciyi açmak için özel PIN iste</string>
     <string name="settings_change_pin">Galeri PIN\'ini Değiştir</string>
     <string name="settings_biometric_unlock_title">Parmak İzi / Biyometrik Kilit Açma</string>
-    <string name="settings_biometric_unlock_desc">Iris Gallery\'nin parmak izinizle açılmasına izin verin</string>
+    <string name="settings_biometric_unlock_desc">SadSha Gallery\'nin parmak izinizle açılmasına izin verin</string>
     <string name="settings_hide_vault_title">Kasa Medyasını Depolamadan Gizle</string>
-    <string name="settings_hide_vault_desc">Kilitli fotoğraf ve videoları özel uygulama depolamasına taşır, böylece diğer uygulamalar ve dosya yöneticileri bunları göremez. Devre dışı bırakıldığında ögeler yalnızca Iris Gallery içinde gizlenir.</string>
+    <string name="settings_hide_vault_desc">Kilitli fotoğraf ve videoları özel uygulama depolamasına taşır, böylece diğer uygulamalar ve dosya yöneticileri bunları göremez. Devre dışı bırakıldığında ögeler yalnızca SadSha Gallery içinde gizlenir.</string>
     <string name="settings_silent_vault_title">Onaysız Kasa Yönetimi</string>
     <string name="settings_silent_vault_desc_granted">Tüm Dosyalara Erişim izni verildi — kasa işlemleri sıfır sistem onay penceresiyle sessizce gerçekleştirilir.</string>
-    <string name="settings_silent_vault_desc_prompt">Iris\'in fotoğrafları Android onay pencereleri olmadan kasaya taşıyıp gizleyebilmesi için \'Tüm Dosyalara Erişim\' izni verin.</string>
+    <string name="settings_silent_vault_desc_prompt">SadSha\'in fotoğrafları Android onay pencereleri olmadan kasaya taşıyıp gizleyebilmesi için \'Tüm Dosyalara Erişim\' izni verin.</string>
     <string name="settings_vault_biometric_title">Özel Kasa İçin Biyometrik Kilit</string>
     <string name="settings_vault_biometric_desc">Kilitli kasa ögelerini görüntülerken cihaz kimlik doğrulaması/PIN iste</string>
     <string name="settings_confirm_delete_title">Silmeden önce onayla</string>
     <string name="settings_confirm_delete_desc">Çöp kutusuna taşımadan veya kalıcı olarak silmeden önce onay iletişim kutusu göster</string>
     <string name="settings_preferred_editor_title">Varsayılan Fotoğraf Düzenleyici</string>
-    <string name="settings_preferred_editor_desc">Düzenle düğmesine dokunulduğunda Iris Düzenleyici\'nin mi yoksa harici uygulamaların mı açılacağını seçin</string>
+    <string name="settings_preferred_editor_desc">Düzenle düğmesine dokunulduğunda SadSha Düzenleyici\'nin mi yoksa harici uygulamaların mı açılacağını seçin</string>
     <string name="settings_editor_always_ask">Her zaman sor</string>
-    <string name="settings_editor_builtin">Iris Düzenleyici (Yerleşik)</string>
+    <string name="settings_editor_builtin">SadSha Düzenleyici (Yerleşik)</string>
     <string name="settings_editor_external">Harici Uygulama</string>
 
     <string name="editor_choice_title">Fotoğrafı Düzenle</string>
-    <string name="editor_builtin_title">Iris Düzenleyici</string>
+    <string name="editor_builtin_title">SadSha Düzenleyici</string>
     <string name="editor_builtin_desc">Yerleşik filtreler, kırpma ve renk ayarları</string>
     <string name="editor_external_title">Harici Uygulama</string>
     <string name="editor_external_desc">ImageToolbox, Lightroom, Snapseed vb. ile aç</string>
     <string name="editor_remember_choice">Bu seçimi her zaman kullan</string>
     <string name="edit_with_external_title">Fotoğrafı şununla düzenle…</string>
-    <string name="action_edit_builtin">Iris Düzenleyici ile Düzenle</string>
+    <string name="action_edit_builtin">SadSha Düzenleyici ile Düzenle</string>
     <string name="action_edit_external">Harici uygulama ile düzenle</string>
 
     <string name="settings_section_storage">Depolama &amp; Sıfırlama</string>
@@ -342,7 +342,7 @@
     <string name="settings_reset_confirm">Varsayılana Sıfırla</string>
 
     <!-- App Lock & PIN Dialogs -->
-    <string name="app_lock_title">Iris Gallery Kilidini Aç</string>
+    <string name="app_lock_title">SadSha Gallery Kilidini Aç</string>
     <string name="app_lock_picker_title">Medya Seçmek İçin Kilidi Açın</string>
     <string name="app_lock_welcome_back">Tekrar Hoş Geldiniz</string>
     <string name="app_lock_select_media">Medya Seç</string>
@@ -352,7 +352,7 @@
     <string name="app_lock_subtitle">Kilidi açmak için Galeri PIN\'ini girin</string>
     <string name="app_lock_picker_subtitle">Fotoğraf seçmek için Galeri PIN\'ini girin</string>
     <string name="app_lock_wrong_pin">Yanlış PIN. Lütfen tekrar deneyin.</string>
-    <string name="app_lock_biometric_title">Iris Gallery Kilidini Aç</string>
+    <string name="app_lock_biometric_title">SadSha Gallery Kilidini Aç</string>
     <string name="app_lock_biometric_subtitle">Devam etmek için parmak izinizi taratın</string>
     <string name="app_lock_scan_fingerprint">Devam etmek için parmak izinizi taratın</string>
     <string name="app_lock_biometric_negative">PIN Kullan</string>
@@ -417,13 +417,13 @@
     <string name="editor_warmth">Sıcaklık</string>
 
     <!-- About Screen -->
-    <string name="about_title">Iris Hakkında</string>
+    <string name="about_title">SadSha Hakkında</string>
     <string name="about_developer_project">Geliştirici &amp; Proje</string>
     <string name="about_developer_label">Geliştirici</string>
     <string name="about_developer_name">Mohamad Oday (@MohamadOday)</string>
     <string name="about_website_label">Web Sitesi &amp; Portföy</string>
     <string name="about_source_label">Kaynak Kodu &amp; Depo</string>
-    <string name="about_source_url">github.com/MohamadOday/iris-gallery</string>
+    <string name="about_source_url">github.com/fnjlabs-arch/iris-gallery</string>
     <string name="about_license_label">Lisans</string>
     <string name="about_license_name">Apache Lisansı 2.0 (Açık Kaynak)</string>
     <string name="about_general_info">Genel Bilgiler</string>
@@ -458,7 +458,7 @@
     <!-- Toasts -->
     <string name="toast_items_vaulted">%1$d öge gizli kasaya taşındı</string>
     <string name="toast_vault_items_moved">%1$d öge gizli kasaya taşındı</string>
-    <string name="toast_vault_items_locked_gallery">%1$d öge Iris Gallery içinde gizlendi</string>
+    <string name="toast_vault_items_locked_gallery">%1$d öge SadSha Gallery içinde gizlendi</string>
     <string name="toast_vault_items_restored">%1$d öge kasadan geri yüklendi</string>
     <string name="toast_vault_items_deleted">%1$d öge kalıcı olarak silindi</string>
     <string name="toast_lock_cancelled">Kilitleme iptal edildi</string>
@@ -471,9 +471,9 @@
     <string name="toast_pin_enabled">Galeri PIN\'i etkinleştirildi</string>
     <string name="toast_pin_changed">Galeri PIN\'i güncellendi</string>
     <string name="toast_pin_disabled">Galeri PIN\'i kaldırıldı</string>
-    <string name="toast_edited_saved">Düzenlenen kopya Pictures/Iris konumuna kaydedildi</string>
+    <string name="toast_edited_saved">Düzenlenen kopya Pictures/SadSha konumuna kaydedildi</string>
     <string name="toast_edited_failed">Düzenlenen kopya kaydedilemedi</string>
-    <string name="toast_editor_saved">Düzenlenen kopya Pictures/Iris konumuna kaydedildi</string>
+    <string name="toast_editor_saved">Düzenlenen kopya Pictures/SadSha konumuna kaydedildi</string>
     <string name="toast_editor_failed">Düzenlenen kopya kaydedilemedi</string>
     <string name="toast_optics_unlocked">İbn-i Heysem Optiği Açıldı!</string>
     <string name="toast_item_moved_to_trash">Çöp kutusuna taşındı (30 gün saklanır)</string>

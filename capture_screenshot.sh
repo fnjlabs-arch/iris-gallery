@@ -9,7 +9,7 @@ INDEX=$(ls "$TARGET_DIR" | wc -l)
 ((INDEX++))
 
 FILENAME="${INDEX}_${NAME}.png"
-TMP_PATH="/data/local/tmp/iris_snap.png"
+TMP_PATH="/data/local/tmp/sadsha_snap.png"
 
 echo "Capturing current screen to $TARGET_DIR/$FILENAME..."
 "$HOME/shizuku/rish" -c "screencap -p $TMP_PATH"

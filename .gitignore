@@ -32,7 +32,7 @@ local.properties
 *.apk
 *.ap_
 *.dex
-iris_widget_*.png
+sadsha_widget_*.png
 
 # OS generated files
 .DS_Store
